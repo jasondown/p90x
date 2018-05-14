@@ -24,6 +24,8 @@
 |Sat|?|?|?|?|?|?|?|?|
 |Sun|?|?|?|?|?|?|?|?|
 
+c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
+
 [Back to Quick Jump](#quick-jump)
 
 <a name="week-2"></a>
@@ -37,6 +39,8 @@
 |Fri|?|?|?|?|?|?|?|?|
 |Sat|?|?|?|?|?|?|?|?|
 |Sun|?|?|?|?|?|?|?|?|
+
+c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
 
 [Back to Quick Jump](#quick-jump)
 
@@ -52,6 +56,8 @@
 |Sat|?|?|?|?|?|?|?|?|
 |Sun|?|?|?|?|?|?|?|?|
 
+c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
+
 [Back to Quick Jump](#quick-jump)
 
 <a name="week-4"></a>
@@ -65,6 +71,8 @@
 |Fri|?|?|?|?|?|?|?|?|
 |Sat|?|?|?|?|?|?|?|?|
 |Sun|?|?|?|?|?|?|?|?|
+
+c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
 
 [Back to Quick Jump](#quick-jump)
 
@@ -84,6 +92,8 @@
 |Sat|?|?|?|?|?|?|?|?|
 |Sun|?|?|?|?|?|?|?|?|
 
+c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
+
 [Back to Quick Jump](#quick-jump)
 
 <a name="week-6"></a>
@@ -97,6 +107,8 @@
 |Fri|?|?|?|?|?|?|?|?|
 |Sat|?|?|?|?|?|?|?|?|
 |Sun|?|?|?|?|?|?|?|?|
+
+c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
 
 [Back to Quick Jump](#quick-jump)
 
@@ -112,6 +124,8 @@
 |Sat|?|?|?|?|?|?|?|?|
 |Sun|?|?|?|?|?|?|?|?|
 
+c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
+
 [Back to Quick Jump](#quick-jump)
 
 <a name="week-8"></a>
@@ -125,6 +139,8 @@
 |Fri|?|?|?|?|?|?|?|?|
 |Sat|?|?|?|?|?|?|?|?|
 |Sun|?|?|?|?|?|?|?|?|
+
+c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
 
 [Back to Quick Jump](#quick-jump)
 
@@ -144,6 +160,8 @@
 |Sat|?|?|?|?|?|?|?|?|
 |Sun|?|?|?|?|?|?|?|?|
 
+c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
+
 [Back to Quick Jump](#quick-jump)
 
 <a name="week-10"></a>
@@ -157,6 +175,8 @@
 |Fri|?|?|?|?|?|?|?|?|
 |Sat|?|?|?|?|?|?|?|?|
 |Sun|?|?|?|?|?|?|?|?|
+
+c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
 
 [Back to Quick Jump](#quick-jump)
 
@@ -172,6 +192,8 @@
 |Sat|?|?|?|?|?|?|?|?|
 |Sun|?|?|?|?|?|?|?|?|
 
+c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
+
 [Back to Quick Jump](#quick-jump)
 
 <a name="week-12"></a>
@@ -185,5 +207,7 @@
 |Fri|?|?|?|?|?|?|?|?|
 |Sat|?|?|?|?|?|?|?|?|
 |Sun|?|?|?|?|?|?|?|?|
+
+c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
 
 [Back to Quick Jump](#quick-jump)
