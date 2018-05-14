@@ -120,3 +120,29 @@ Choose nutrition level:
 |1 cup|string beans|1 cup|tomatoes|
 |1 can/8oz|low-sodium V-8 juice|
 |1 cup|vegetable soup/vegetable juice|
+
+#### Condiments (1 serving - 50 calories)
+|Portion|Food|Portion|Food|
+|:---:|:---:|:---:|:---:|
+|2 tbsp|bbq sauce|2 tbsp|low-fat sauces/marinades|
+|2 tbsp|fat-free dressings|2 tbsp|mustard|
+|2 tbsp|honey|2 tbsp|pure fruit jams|
+
+#### Snacks - Single (1 serving - 100 calories)
+|Portion|Food|Portion|Food|
+|:---:|:---:|:---:|:---:|
+|1 oz|low-fat cheese|8 oz|1% cottage cheese|
+|1 oz|dried fruit|1|frozen fruit bar|
+|8 oz|fruit sorbet|12|mini rice cakes|
+|4 oz|non-fat frozen yogurt|1/2|protein bar|
+|1 tbps|peanut butter w/ celery sticks|2 oz|soy nuts|
+|1 1/2 oz|string cheese|1 oz|turkey jerky|
+|8 oz|non-fat plain yogurt|
+
+#### Snacks - Double (1 serving - 200 calories)
+|Portion|Food|Portion|Food|
+|:---:|:---:|:---:|:---:|
+|12 oz|1% cottage cheese|1 oz|nuts|
+|1|protein bar|2/3 cup|protein powder|
+|4 oz|soy nuts|3 oz|string cheese|
+|2 oz|turkey jerky|
