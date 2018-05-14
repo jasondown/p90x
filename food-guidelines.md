@@ -44,3 +44,57 @@ Choose nutrition level:
 |1|2|1|2|2|1|3|1 single|2|
 |2|3|1|3|3|1|4|1 double + 1 single|3|
 |3|4|1|3|4|1|5|1 double + 2 single|4|
+
+### Food Portions
+
+#### Fat (1 serving - 120 calories)
+|Portion|Food|
+|:---:|:---:|
+|1 tbsp|canola oil, olive oil, flaxseed oil|
+|20|olives|
+|1/2|avocado|
+
+#### Protein (1 serving = 100 calories)
+|Portion|Food|
+|:---:|:---:|
+|3 oz|chicken/turkey breast|
+|6|egg whites|
+|3 oz|fish/shellfish|
+|3 oz|pork tenderloin|
+|1/3 cup|protein powder|
+|3 oz|red meat (top sirloin, skirt steak, lean ground beef|
+|1|soy burger|
+|5|soy slices|
+|3 oz|tofu|
+|3 oz|tuna|
+|2 slices|turkey bacon|
+|1|veggie burger|
+|1|veggie dog|
+
+#### Carbs (1 serving - 200 calories)
+|Portion|Food|
+|:---:|:---:|
+|1|bagel, whole wheat|
+|1 cup|baked/kidney/black beans|
+|1|bran muffin|
+|2 slices|whole wheat/rye/pumpernickel bread|
+|1 cup|whole grain cereal|
+|1 cup|couscous|
+|12|crackers|
+|2|whole English muffins|
+|1 cup|hummus|
+|1 cup|lentils|
+|1 cup|oatmeal|
+|3|medium pancakes|
+|1 cup|pasta/noodles|
+|1|large whole wheat pita|
+|1|medium-large potato|
+|1 cup|quinoa|
+|1 cup|low-fat refried beans|
+|1 cup|wild/brown rice|
+|1|medium sweet potato|
+|3|corn tortillas|
+|1|large whole wheat tortilla|
+|2|whole wheat waffles|
+|1 cup|wheat berries|
+
