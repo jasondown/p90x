@@ -1,5 +1,24 @@
 # Food Guidelines
 
+<a name="toc"></a>
+### Table of Contents
+* [Nutrition Levels](#nutrition-levels)
+* [Phase Proportions](#phase-proportions)
+* [Phase Level Proportions](#phase-level-proportions)
+  * [Phase 1](#phase-1)
+  * [Phase 2](#phase-2)
+  * [Phase 3](#phase-3)
+* [Food Portions](#food-portions)
+  * [Fat](#fat)
+  * [Protein](#protein)
+  * [Carbs](#carbs)
+  * [Fruits](#fruits)
+  * [Veggies](#veggies)
+  * [Condiments](#condiments)
+  * [Snacks - Single](#snacks-single)
+  * [Snacks - Double](#snacks-double)
+
+<a name="nutrition-levels"></a>
 ### Nutrition Levels
 
 |Nutrition Level|Energy Amount (cal/day)|
@@ -14,6 +33,9 @@ Choose nutrition level:
 * 600 = P90X workouts
 * Energy level = RMR + DAB + P90X
 
+[Table of Contents](#toc)
+
+<a name="phase-proportions"></a>
 ### Phase Proportions
 
 |Phase|Protein %|Carbs %|Fat %|
@@ -22,8 +44,12 @@ Choose nutrition level:
 |2 (Energy Booster)|40|40|20
 |3 (Endurance Maximizer)|20|60|20
 
-### Phase-Level Proportions
+[Table of Contents](#toc)
 
+<a name="phase-level-proportions"></a>
+### Phase Level Proportions
+
+<a name="phase-1"></a>
 #### Phase 1
 |Level|Protein|Dairy|Fruit|Vegetables|Fat|Carbs|Snacks|Condiments|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -31,6 +57,9 @@ Choose nutrition level:
 |2|7|3|1|4|1|1|1 double|2|
 |3|9|4|2|4|1|1|2 double|2|
 
+[Table of Contents](#toc)
+
+<a name="phase-2"></a>
 #### Phase 2
 |Level|Protein|Dairy|Fruit|Vegetables|Fat|Carbs|Snacks|Condiments|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -38,6 +67,9 @@ Choose nutrition level:
 |2|6|2|1|3|1|3|1 double|1.5|
 |3|8|2|2|3|1|3|2 double|3|
 
+[Table of Contents](#toc)
+
+<a name="phase-3"></a>
 #### Phase 3
 |Level|Protein|Dairy|Fruit|Vegetables|Fat|Carbs|Snacks|Condiments|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -45,8 +77,12 @@ Choose nutrition level:
 |2|3|1|3|3|1|4|1 double + 1 single|3|
 |3|4|1|3|4|1|5|1 double + 2 single|4|
 
+[Table of Contents](#toc)
+
+<a name="food-portions"></a>
 ### Food Portions
 
+<a name="fat"></a>
 #### Fat (1 serving - 120 calories)
 |Portion|Food|
 |:---:|:---:|
@@ -54,6 +90,9 @@ Choose nutrition level:
 |20|olives|
 |1/2|avocado|
 
+[Table of Contents](#toc)
+
+<a name="protein"></a>
 #### Protein (1 serving = 100 calories)
 |Portion|Food|Portion|Food|
 |:---:|:---:|:---:|:---:|
@@ -65,6 +104,9 @@ Choose nutrition level:
 |2 slices|turkey bacon|1|veggie burger|
 |1|veggie dog|
 
+[Table of Contents](#toc)
+
+<a name="carbs"></a>
 #### Carbs (1 serving - 200 calories)
 |Portion|Food|Portion|Food|
 |:---:|:---:|:---:|:---:|
@@ -81,6 +123,9 @@ Choose nutrition level:
 |1|large whole wheat tortilla|2|whole wheat waffles|
 |1 cup|wheat berries|
 
+[Table of Contents](#toc)
+
+<a name="dairy"></a>
 #### Dairy (1 serving - 120 calories)
 |Portion|Food|Portion|Food|
 |:---:|:---:|:---:|:---:|
@@ -90,6 +135,9 @@ Choose nutrition level:
 |8 oz|skim milk|1 oz|soy cheese|
 |8 oz|soy milk|8 oz|non-fat plain yogurt|
 
+[Table of Contents](#toc)
+
+<a name="fruits"></a>
 #### Fruits (1 serving - 100 calories)
 |Portion|Food|Portion|Food|
 |:---:|:---:|:---:|:---:|
@@ -104,6 +152,9 @@ Choose nutrition level:
 |1 cup|raspberries/blueberries/blackberries|2 cups|sliced strawberries|
 |1|medium tangerine|1 cup|watermelon|
 
+[Table of Contents](#toc)
+
+<a name="veggies"></a>
 #### Veggies (1 serving - 50 calories)
 |Portion|Food|Portion|Food|
 |:---:|:---:|:---:|:---:|
@@ -121,6 +172,9 @@ Choose nutrition level:
 |1 can/8oz|low-sodium V-8 juice|
 |1 cup|vegetable soup/vegetable juice|
 
+[Table of Contents](#toc)
+
+<a name="condiments"></a>
 #### Condiments (1 serving - 50 calories)
 |Portion|Food|Portion|Food|
 |:---:|:---:|:---:|:---:|
@@ -128,6 +182,9 @@ Choose nutrition level:
 |2 tbsp|fat-free dressings|2 tbsp|mustard|
 |2 tbsp|honey|2 tbsp|pure fruit jams|
 
+[Table of Contents](#toc)
+
+<a name="snacks-single"></a>
 #### Snacks - Single (1 serving - 100 calories)
 |Portion|Food|Portion|Food|
 |:---:|:---:|:---:|:---:|
@@ -139,6 +196,9 @@ Choose nutrition level:
 |1 1/2 oz|string cheese|1 oz|turkey jerky|
 |8 oz|non-fat plain yogurt|
 
+[Table of Contents](#toc)
+
+<a name="snacks-double"></a>
 #### Snacks - Double (1 serving - 200 calories)
 |Portion|Food|Portion|Food|
 |:---:|:---:|:---:|:---:|
@@ -146,3 +206,5 @@ Choose nutrition level:
 |1|protein bar|2/3 cup|protein powder|
 |4 oz|soy nuts|3 oz|string cheese|
 |2 oz|turkey jerky|
+
+[Table of Contents](#toc)
