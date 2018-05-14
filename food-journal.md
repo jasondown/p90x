@@ -16,13 +16,13 @@
 #### Week 1
 |Day|Breakfast|Snack|Lunch|Snack|Dinner|Target|Actual|Diff|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Mon|coffee|Potato wedges (1c)|curry chicken roti (1p, 1c)|?|bbq chicken breast (2p, 1ct), broccoli (2v)|7p, 3d, 1f, 4v, 1f, 1c, 1sd, 2ct|?|?|
-|Tue|?|?|?|?|?|7p, 3d, 1f, 4v, 1f, 1c, 1sd, 2ct|?|?|
-|Wed|?|?|?|?|?|7p, 3d, 1f, 4v, 1f, 1c, 1sd, 2ct|?|?|
-|Thu|?|?|?|?|?|7p, 3d, 1f, 4v, 1f, 1c, 1sd, 2ct|?|?|
-|Fri|?|?|?|?|?|7p, 3d, 1f, 4v, 1f, 1c, 1sd, 2ct|?|?|
-|Sat|?|?|?|?|?|7p, 3d, 1f, 4v, 1f, 1c, 1sd, 2ct|?|?|
-|Sun|?|?|?|?|?|7p, 3d, 1f, 4v, 1f, 1c, 1sd, 2ct|?|?|
+|Mon|coffee|Potato wedges (1c)|curry chicken roti (1p, 1c)|?|bbq chicken breast (2p, 1co), broccoli (2v)|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|?|?|
+|Tue|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|?|?|
+|Wed|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|?|?|
+|Thu|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|?|?|
+|Fri|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|?|?|
+|Sat|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|?|?|
+|Sun|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|?|?|
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
 
