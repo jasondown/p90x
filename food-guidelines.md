@@ -98,3 +98,16 @@ Choose nutrition level:
 |2|whole wheat waffles|
 |1 cup|wheat berries|
 
+#### Dairy (1 serving - 120 calories)
+|Portion|Food|
+|:---:|:---:|
+|1 oz|low-fat cheese|
+|1 cup|1% cottage cheese|
+|1 oz|feta cheese|
+|1 oz|semisoft goat cheese|
+|1-1/2 oz|partly-skim mozzarella cheese|
+|3 oz|parmesan cheese|
+|8 oz|skim milk|
+|1 oz|soy cheese|
+|8 oz|soy milk|
+|8 oz|non-fat plain yogurt|
