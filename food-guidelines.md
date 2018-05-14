@@ -111,3 +111,27 @@ Choose nutrition level:
 |1 oz|soy cheese|
 |8 oz|soy milk|
 |8 oz|non-fat plain yogurt|
+
+#### Fruits (1 serving - 100 calories)
+|Portion|Food|
+|:---:|:---:|
+|1|medium apple|
+|1 cup|apricots|
+|1|medium banana|
+|1/4|medium cantaloupe|
+|1 cup|cherries|
+|1 oz|dried fruit|
+|6 oz|freshly squeezed juice|
+|1|medium grapefruit|
+|1 cup|grapes|
+|1 cup|kiwi|
+|1/2|medium mango|
+|1|nectarine|
+|1|large orange|
+|1/2|medium papaya|
+|1|medium peach|
+|1|medium pear|
+|1 cup|raspberries/blueberries/blackberries|
+|2 cups|sliced strawberries|
+|1|medium tangerine|
+|1 cup|watermelon|
