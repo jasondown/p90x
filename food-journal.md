@@ -16,7 +16,7 @@
 #### Week 1
 |Day|Breakfast|Snack|Lunch|Snack|Dinner|Target|Actual|Diff|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Mon|?|?|?|?|?|?|?|?|
+|Mon|coffee|Potato wedges (1c)|curry chicken roti (1p, 1c)|?|bbq chicken breast (2p, 1ct), broccoli (1v)|7p, 3d, 1f, 4v, 1f, 1c, 1sd, 2ct|?|?|
 |Tue|?|?|?|?|?|?|?|?|
 |Wed|?|?|?|?|?|?|?|?|
 |Thu|?|?|?|?|?|?|?|?|
