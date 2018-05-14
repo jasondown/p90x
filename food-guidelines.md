@@ -103,3 +103,20 @@ Choose nutrition level:
 |1|medium peach|1|medium pear|
 |1 cup|raspberries/blueberries/blackberries|2 cups|sliced strawberries|
 |1|medium tangerine|1 cup|watermelon|
+
+#### Veggies (1 serving - 50 calories)
+|Portion|Food|Portion|Food|
+|:---:|:---:|:---:|:---:|
+|1 cup|asparagus|1 cup|beets|
+|1 cup|broccoli|1 cup|brussel sprouts|
+|1 cup|cabbage|1 cup|carrots|
+|1 cup|cauliflower|2 cups|celery|
+|2 cups|collard greens|2 cups|cucumber|
+|1 cup|eggplant|2 cups|kale|
+|2 cups|lettuce|1 cup|marinara sauce|
+|1 cup|mushrooms|1 cup|peas|
+|1 cup|peppers|2 cups|spinach|
+|1 cup|sprouts|1 cup|squash|
+|1 cup|string beans|1 cup|tomatoes|
+|1 can/8oz|low-sodium V-8 juice|
+|1 cup|vegetable soup/vegetable juice|
