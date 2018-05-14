@@ -55,83 +55,51 @@ Choose nutrition level:
 |1/2|avocado|
 
 #### Protein (1 serving = 100 calories)
-|Portion|Food|
-|:---:|:---:|
-|3 oz|chicken/turkey breast|
-|6|egg whites|
-|3 oz|fish/shellfish|
-|3 oz|pork tenderloin|
-|1/3 cup|protein powder|
-|3 oz|red meat (top sirloin, skirt steak, lean ground beef|
-|1|soy burger|
-|5|soy slices|
-|3 oz|tofu|
-|3 oz|tuna|
-|2 slices|turkey bacon|
-|1|veggie burger|
+|Portion|Food|Portion|Food|
+|:---:|:---:|:---:|:---:|
+|3 oz|chicken/turkey breast|6|egg whites|
+|3 oz|fish/shellfish|3 oz|pork tenderloin|
+|1/3 cup|protein powder|3 oz|red meat (top sirloin, skirt steak, lean ground beef|
+|1|soy burger|5|soy slices|
+|3 oz|tofu|3 oz|tuna|
+|2 slices|turkey bacon|1|veggie burger|
 |1|veggie dog|
 
 #### Carbs (1 serving - 200 calories)
-|Portion|Food|
-|:---:|:---:|
-|1|bagel, whole wheat|
-|1 cup|baked/kidney/black beans|
-|1|bran muffin|
-|2 slices|whole wheat/rye/pumpernickel bread|
-|1 cup|whole grain cereal|
-|1 cup|couscous|
-|12|crackers|
-|2|whole English muffins|
-|1 cup|hummus|
-|1 cup|lentils|
-|1 cup|oatmeal|
-|3|medium pancakes|
-|1 cup|pasta/noodles|
-|1|large whole wheat pita|
-|1|medium-large potato|
-|1 cup|quinoa|
-|1 cup|low-fat refried beans|
-|1 cup|wild/brown rice|
-|1|medium sweet potato|
-|3|corn tortillas|
-|1|large whole wheat tortilla|
-|2|whole wheat waffles|
+|Portion|Food|Portion|Food|
+|:---:|:---:|:---:|:---:|
+|1|bagel, whole wheat|1 cup|baked/kidney/black beans|
+|1|bran muffin|2 slices|whole wheat/rye/pumpernickel bread|
+|1 cup|whole grain cereal|1 cup|couscous|
+|12|crackers|2|whole English muffins|
+|1 cup|hummus|1 cup|lentils|
+|1 cup|oatmeal|3|medium pancakes|
+|1 cup|pasta/noodles|1|large whole wheat pita|
+|1|medium-large potato|1 cup|quinoa|
+|1 cup|low-fat refried beans|1 cup|wild/brown rice|
+|1|medium sweet potato|3|corn tortillas|
+|1|large whole wheat tortilla|2|whole wheat waffles|
 |1 cup|wheat berries|
 
 #### Dairy (1 serving - 120 calories)
-|Portion|Food|
-|:---:|:---:|
-|1 oz|low-fat cheese|
-|1 cup|1% cottage cheese|
-|1 oz|feta cheese|
-|1 oz|semisoft goat cheese|
-|1-1/2 oz|partly-skim mozzarella cheese|
-|3 oz|parmesan cheese|
-|8 oz|skim milk|
-|1 oz|soy cheese|
-|8 oz|soy milk|
-|8 oz|non-fat plain yogurt|
+|Portion|Food|Portion|Food|
+|:---:|:---:|:---:|:---:|
+|1 oz|low-fat cheese|1 cup|1% cottage cheese|
+|1 oz|feta cheese|1 oz|semisoft goat cheese|
+|1-1/2 oz|partly-skim mozzarella cheese|3 oz|parmesan cheese|
+|8 oz|skim milk|1 oz|soy cheese|
+|8 oz|soy milk|8 oz|non-fat plain yogurt|
 
 #### Fruits (1 serving - 100 calories)
-|Portion|Food|
-|:---:|:---:|
-|1|medium apple|
-|1 cup|apricots|
-|1|medium banana|
-|1/4|medium cantaloupe|
-|1 cup|cherries|
-|1 oz|dried fruit|
-|6 oz|freshly squeezed juice|
-|1|medium grapefruit|
-|1 cup|grapes|
-|1 cup|kiwi|
-|1/2|medium mango|
-|1|nectarine|
-|1|large orange|
-|1/2|medium papaya|
-|1|medium peach|
-|1|medium pear|
-|1 cup|raspberries/blueberries/blackberries|
-|2 cups|sliced strawberries|
-|1|medium tangerine|
-|1 cup|watermelon|
+|Portion|Food|Portion|Food|
+|:---:|:---:|:---:|:---:|
+|1|medium apple|1 cup|apricots|
+|1|medium banana|1/4|medium cantaloupe|
+|1 cup|cherries|1 oz|dried fruit|
+|6 oz|freshly squeezed juice|1|medium grapefruit|
+|1 cup|grapes|1 cup|kiwi|
+|1/2|medium mango|1|nectarine|
+|1|large orange|1/2|medium papaya|
+|1|medium peach|1|medium pear|
+|1 cup|raspberries/blueberries/blackberries|2 cups|sliced strawberries|
+|1|medium tangerine|1 cup|watermelon|
