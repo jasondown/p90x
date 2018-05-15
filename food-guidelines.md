@@ -12,6 +12,7 @@
   * [Fat](#fat)
   * [Protein](#protein)
   * [Carbs](#carbs)
+  * [Dairy](#dairy)
   * [Fruits](#fruits)
   * [Veggies](#veggies)
   * [Condiments](#condiments)
