@@ -17,7 +17,7 @@
 |Day|Breakfast|Snack|Lunch|Snack|Dinner|Post Workout|Target|Actual|Diff|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Mon|coffee|Cheese String (1ss)|curry chicken roti (1p, 1c)|apple (1fr)|bbq chicken breast (2p, 1co), broccoli (2v), Potato Wedges (1c)|X|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|3p, 0d, 1fr, 2v, 0f, 2c, 1ss, 1co|-4p, -3d, -2v, -1f, +1c, -1ss, -1co|
-|Tue|Protein Shake (Milk+powder) (2p, 1.5d)|Coffee, Almonds (1sd)|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|2p, 1.5d, 0fr, 0v, 0f, 0c, 1sd, 0co|-5p, -1.5d, -1fr, -4v, -1f, -1c, -2co|
+|Tue|Protein Shake (Milk+powder) (2p, 1.5d)|Coffee, Almonds (1sd)|Mixed Veggies (2v), hard-boiled egg (0.5p), turkey pepperette (0.5p)|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|3p, 1.5d, 0fr, 2v, 0f, 0c, 1sd, 0co|-4p, -1.5d, -1fr, -2v, -1f, -1c, -2co|
 |Wed|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|2p, 1.5d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
 |Thu|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|2p, 1.5d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
 |Fri|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|2p, 1.5d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
