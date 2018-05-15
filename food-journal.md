@@ -16,7 +16,7 @@
 #### Week 1
 |Day|Breakfast|Snack|Lunch|Snack|Dinner|Post Workout|Target|Actual|Diff|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Mon|coffee|Cheese String (1ss)|curry chicken roti (1p, 1c)|?|bbq chicken breast (2p, 1co), broccoli (2v), Potato Wedges (1c)|Protein Shake (Milk+powder) (2p, 1d)|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|5p, 1d, 0fr, 2v, 0f, 2c, 1ss, 1co|-2p, -2d, -1fr, -2v, -1f, +1c, -1ss, -1co|
+|Mon|coffee|Cheese String (1ss)|curry chicken roti (1p, 1c)|apple (1fr)|bbq chicken breast (2p, 1co), broccoli (2v), Potato Wedges (1c)|Protein Shake (Milk+powder) (2p, 1.5d)|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|5p, 1d, 1fr, 2v, 0f, 2c, 1ss, 1co|-2p, -1.5d, -2v, -1f, +1c, -1ss, -1co|
 |Tue|?|?|?|?|?|?|?|?|?|
 |Wed|?|?|?|?|?|?|?|?|?|
 |Thu|?|?|?|?|?|?|?|?|?|
