@@ -16,9 +16,9 @@
 #### Week 1
 |Day|Breakfast|Snack|Lunch|Snack|Dinner|Post Workout|Target|Actual|Diff|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Mon|coffee|Cheese String (1ss)|curry chicken roti (1p, 1c, 1co)|apple (1fr)|bbq chicken breast (2p, 1co), broccoli (2v), Potato Wedges (1c)|X|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|3p, 0d, 1fr, 2v, 0f, 2c, 1ss, 2co|-4p, -3d, -2v, -1f, +1c, -1ss|
-|Tue|Protein Shake (Milk+powder) (2p, 1.5d)|Coffee, Almonds (1sd)|Mixed Veggies (2v), hard-boiled egg (0.5p, 0.5f), turkey pepperette (0.5p), cheese string (1d)|X|chicken wrap (0.5c, 1p, 0.5v, 1co), turkey pepperette (0.5p), bbq chicken lettuce wraps|Milk (0.5d), strawberries (1fr)|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|7p, 3d, 1fr, 4v, 0.5f, 0.5c, 1sd, 2co|-0.5f, -0.5c|
-|Wed|coffee, 2 hard-boiled eggs (1p, 1f), 1 cup cottage cheese (1d)|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|1p, 1d, 0fr, 0v, 1f, 0c, 0sd, 0co|-6p, -2d, -1fr, -4v, -1c, -1sd, -2co|
+|Mon|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Tue|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Wed|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
 |Thu|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
 |Fri|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
 |Sat|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
