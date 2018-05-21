@@ -1,8 +1,8 @@
 # p90x
 Tracking P90X progress via workouts and food journal.
 
-* Use the [food journal](/food-journal.md) tables to track your meals for each day (NOTE: target, actual, diff daily values are set for level II).
-* Use the [food guidelines](/food-guidelines.md) to get portion sizes for each day (based on phase and nutrition level).
+* Use the [food journal](./food-journal.md) tables to track your meals for each day (NOTE: target, actual, diff daily values are set for level II).
+* Use the [food guidelines](./food-guidelines.md) to get portion sizes for each day (based on phase and nutrition level).
 
 ## Workout Schedule (Classic)
 
@@ -10,21 +10,21 @@ Tracking P90X progress via workouts and food journal.
 #### Week 1
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[Chest and Back](/chest-and-back.md), Ab Ripper X\*|Plyometrics\*|[Shoulders and Arms](/shoulders-and-arms.md), Ab Ripper X\*|Yoga X\*|[Legs and Back](/legs-and-back.md), Ab Ripper X\*|Kenpo X\*|Rest or Stretch X\*|
+|[Chest and Back](./chest-and-back.md), Ab Ripper X\*|Plyometrics\*|[Shoulders and Arms](./shoulders-and-arms.md), Ab Ripper X\*|Yoga X\*|[Legs and Back](./legs-and-back.md), Ab Ripper X\*|Kenpo X\*|Rest or Stretch X\*|
 
 &ast;*Reps/Weight not tracked*
 
 #### Week 2
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[Chest and Back](/chest-and-back.md), Ab Ripper X\*|Plyometrics\*|[Shoulders and Arms](/shoulders-and-arms.md), Ab Ripper X\*|Yoga X\*|[Legs and Back](/legs-and-back.md), Ab Ripper X\*|Kenpo X\*|Rest or Stretch X\*|
+|[Chest and Back](./chest-and-back.md), Ab Ripper X\*|Plyometrics\*|[Shoulders and Arms](./shoulders-and-arms.md), Ab Ripper X\*|Yoga X\*|[Legs and Back](./legs-and-back.md), Ab Ripper X\*|Kenpo X\*|Rest or Stretch X\*|
 
 &ast;*Reps/Weight not tracked*
 
 #### Week 3
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[Chest and Back](/chest-and-back.md), Ab Ripper X\*|Plyometrics\*|[Shoulders and Arms](/shoulders-and-arms.md), Ab Ripper X\*|Yoga X\*|[Legs and Back](/legs-and-back.md), Ab Ripper X\*|Kenpo X\*|Rest or Stretch X\*|
+|[Chest and Back](./chest-and-back.md), Ab Ripper X\*|Plyometrics\*|[Shoulders and Arms](./shoulders-and-arms.md), Ab Ripper X\*|Yoga X\*|[Legs and Back](./legs-and-back.md), Ab Ripper X\*|Kenpo X\*|Rest or Stretch X\*|
 
 &ast;*Reps/Weight not tracked*
 
