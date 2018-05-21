@@ -32,7 +32,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 #### Week 2
 |Day|Breakfast|Snack|Lunch|Snack|Dinner|Post Workout|Target|Actual|Diff|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Mon|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Mon|protein shake (milk + protein powder + banana) (2p, 1fr, 1d)|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|2p, 1d, 1fr, 0v, 0f, 0c, 0sd, 0co|-5p, -2d, -4v, -1f, -1c, -1sd, -2co|
 |Tue|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
 |Wed|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
 |Thu|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
