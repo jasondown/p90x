@@ -14,6 +14,7 @@
 
 <a name="week-1"></a>
 #### Week 1
+<html>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#bbb;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#bbb;color:#594F4F;background-color:#E0FFEB;}
@@ -120,7 +121,7 @@
     <td class="tg-9se1">-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
   </tr>
 </table>
-
+</html>
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
 
 [Back to Quick Jump](#quick-jump)
