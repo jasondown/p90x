@@ -14,15 +14,104 @@
 
 <a name="week-1"></a>
 #### Week 1
-|Day|Breakfast|Snack|Lunch|Snack|Dinner|Post Workout|Target|Actual|Diff|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Mon|coffee|Cheese String (1ss)|curry chicken roti (1p, 1c, 1co)|apple (1fr)|bbq chicken breast (2p, 1co), broccoli (2v), potato wedges (1c)|X|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|3p, 0d, 1fr, 2v, 0f, 2c, 1ss, 2co|-4p, -3d, -2v, -1f, +1c, -1ss|
-|Tue|protein shake (milk + protein powder) (2p, 1.5d)|coffee, almonds (1sd)|mixed veggies (2v), hard-boiled egg (0.5p, 0.5f), turkey pepperette (0.5p), cheese string (0.5d)|X|chicken wrap (0.5c, 1p, 0.5v, 1co), turkey pepperette (0.5p), bbq chicken lettuce wraps|Milk (0.5d), strawberries (1fr)|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|7p, 2.5d, 1fr, 4v, 0.5f, 0.5c, 1sd, 2co|-0.5d, -0.5f, -0.5c|
-|Wed|coffee, 2 hard-boiled eggs (1p, 1f), 1 cup cottage cheese (1d)|almonds (1sd)|lean ham wrap (0.5c, 1p, 0.5v, 1co), turkey pepperette (0.5p), cheese string (0.5d)|mixed veggies (2v)|Salmon (1.5p), half sweet potato (0.5c), cheese string (0.5d)|protein shake (milk + protein powder + banana) (2p, 1fr, 1d)|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|6p, 3d, 1fr, 2.5v, 1f, 1c, 1sd, 1co|-1p, -1.5v, -1co|
-|Thu|tuna (1p), turkey pepperette (0.5p), cheese string (0.5d)|protein bar (1sd)|Heritage Green Salad (2v, 1co)|cottage cheese (1d), bbq chicken (1p)|Hamburger (1.5p, 0.5v, 0.5f, 1c, 1co)|protein shake (extra milk + protein powder + banana) (2p, 1fr, 1.5d)|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|6p, 3d, 1fr, 2.5v, 0.5f, 1c, 1sd, 1co|-1p, -1.5v, -0.5f|
-|Fri|omelette (egg whites, ham, mozzarella, mixed sauteed veggies) (2.5 protein, 0.5f, 1v, 1d), half apple (0.5fr), blackberries (0.5fr)|almonds (1sd)|Chopped salad (2v, 1co)|turkey pepperette (0.5p), cheese string (0.5d)|3 slices Hawaaiin pizza (1c, 0.5d, 0.5p, 0.5fr, 0.5v)|protein bar (2p)|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|5.5p, 2d, 1.5fr, 3.5v, 0.5f, 1c, 1sd, 1co|-1.5p, -1d, +0.5fr, -0.5v, -0.5f, -1co|
-|Sat|salad (cottage cheese, cucumber, tomato, sun-dried tomato & oregano dressing) (1d, 1.5v, 1co), raspberries (1fr)|almonds (1sd)|tuna salad (2p, 1f), english muffin (0.5c), Chopped salad (2v, 1co)|roasted chicken breast (0.5p), 1 small slice Hawaaiian pizza (0.5c)|Omelette (eggs, mozzarella, mixed sauteed veggies) (1.5p, 1d, 1v)|protein shake (milk + protein powder) (2p, 1d)|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|5.5p, 3d, 1fr, 4.5v, 1f, 1c, 1sd, 2co|-1.5p, +0.5v|
-|Sun|salad (cottage cheese, cucumber, tomato, sun-dried tomato & oregano dressing) (1d, 1.5v, 1co)|hard-boiled egg (0.5p), cheese string (0.5p)|tuna salad (2p, 1f), english muffin (0.5c)|almonds (1sd), 1 beer (1c)|chopped chicken salad (1p, 2.5v, 1co), strawberries (1fr)|X|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|3.5p, 1.5d, 1fr, 4v, 1f, 1.5c, 1sd, 1co|-3.5p, -1.5d, +0.5c|
+<table width=100>
+  <tr valign="top" align="left">
+    <th>Day</th>
+    <th>Breakfast</th>
+    <th>Snack</th>
+    <th>Lunch</th>
+    <th>Snack</th>
+    <th>Dinner</th>
+    <th>Post Workout</th>
+    <th>Target</th>
+    <th>Actual</th>
+    <th>Diff</th>
+  </tr>
+  <tr valign="top" align="left">
+    <td>M</td>
+    <td>X</td>
+    <td>cheese string<br>1ss</td>
+    <td>curry chicken roti<br>1p<br>1c<br>1co</td>
+    <td>apple<br>1fr</td>
+    <td>bbq chicken breast<br>2p<br>1co<br><br>broccoli<br>2v<br><br>potato wedges<br>1c</td>
+    <td>X</td>
+    <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
+    <td>3p<br>0d<br>1fr<br>2v<br>0f<br>2c<br>1ss<br>2co</td>
+    <td>-4p<br>-3d<br>0fr<br>-2v<br>-1f<br>+1c<br>-1ss<br>0co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>T</td>
+    <td>protein shake<br>(milk + protein powder)<br>2p<br>1.5d</td>
+    <td>almonds<br>1sd</td>
+    <td>mixed veggies<br>2v<br><br>hard-boiled egg<br>0.5p<br>0.5f<br><br>turkey pepperette<br>0.5p<br><br>cheese string<br>0.5d</td>
+    <td>X</td>
+    <td>chicken wrap<br>1p<br>0.5c<br>1co<br><br>turkey pepperette<br>0.5p<br><br>bbq chicken lettuce wrap<br>2p<br>1.5v<br>0.5co</td>
+    <td>milk<br>0.5d<br><br>strawberries<br>1fr</td>
+    <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co<br></td>
+    <td>6.5p<br>2.5d<br>1fr<br>3.5v<br>0.5f<br>0.5c<br>1sd<br>0.5co</td>
+    <td>-0.5p<br>-0.5d<br>0fr<br>-0.5v<br>-0.5f<br>-0.5c<br>0sd<br>-1.5co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>W</td>
+    <td>2 hard-boiled eggs<br>1p<br>1f<br><br>cottage cheese<br>1d</td>
+    <td>almonds<br>1sd</td>
+    <td>lean ham wrap<br>0.5c<br>1p<br>0.5v<br>1co<br><br>turkey pepperette<br>0.5p<br><br>cheese string<br>0.5d</td>
+    <td>mixed veggies<br>2v</td>
+    <td>Salmon<br>1.5p<br><br>1/2 sweet potato<br>0.5c<br><br>cheese string<br>0.5d</td>
+    <td>protein shake<br>(milk + protein powder + banana<br>2p<br>1fr<br>1d</td>
+    <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
+    <td>6p<br>3d<br>1fr<br>2.5v<br>1f<br>1c<br>1sd<br>1co</td>
+    <td>-1p<br>0d<br>0fr<br>-1.5v<br>0f<br>0c<br>0sd<br>-1co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>T</td>
+    <td>tuna<br>1p<br><br>turkey pepperette<br>0.5p<br><br>cheese string<br>0.5d</td>
+    <td>protein bar<br>1sd</td>
+    <td>heritage green salad<br>2v<br>1co</td>
+    <td>cottage cheese<br>1d<br><br>bbq chicken<br>1p</td>
+    <td>hamburger<br>1.5p<br>0.5v<br>0.5f<br>1c<br>1co</td>
+    <td>protein shake<br>(extra milk + protein powder + banana)<br>2p<br>1fr<br>1.5d</td>
+    <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
+    <td>6p<br>3d<br>1fr<br>2.5v<br>0.5f<br>1c<br>1sd<br>2co</td>
+    <td>-1p<br>0d<br>0fr<br>-1.5v<br>-0.5f<br>0c<br>0sd<br>0co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>F</td>
+    <td>omelette<br>(egg whites, ham, mozzarella, mixed sauteed veggies)<br>2.5p<br>0.5f<br>1v<br>1d<br><br>1/2 apple<br>0.5fr<br><br>blackberries<br>0.5fr</td>
+    <td>almonds<br>1sd</td>
+    <td>Chopped salad<br>2v<br>1co</td>
+    <td>turkey pepperette<br>0.5p<br><br>cheese string<br>0.5d</td>
+    <td>3 small slices Hawaaiin pizza<br>1c<br>0.5d<br>0.5p<br>0.5fr<br>0.5v</td>
+    <td>protein bar<br>2p</td>
+    <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
+    <td>5.5p<br>2d<br>1.5fr<br>3.5v<br>0.5f<br>1c<br>1sd<br>1co</td>
+    <td>-1.5p<br>-1d<br>+0.5fr<br>-0.5v<br>=0.5f<br>0c<br>0sd<br>-1co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>S</td>
+    <td>salad<br>(cottage cheese, cucumber, tomato, sun-dried tomato & oregano dressing)<br>1d<br>1.5v<br>1co<br><br>raspberries<br>1fr</td>
+    <td>almonds<br>1sd</td>
+    <td>tuna salad<br>2p<br>1f<br><br>english muffin<br>0.5c<br><br>Chopped salad<br>2v<br>1co</td>
+    <td>roasted chicken breast<br>0.5p<br><br>small slice Hawaaiian pizza<br>0.5c</td>
+    <td>Omelette<br>(eggs, mozzarella, mixed sauteed veggies)<br>1.5p<br>1d<br>1v</td>
+    <td>protein shake<br>(milk + protein powder)<br>2p<br>1d</td>
+    <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
+    <td>5.5p<br>3d<br>1fr<br>4.5v<br>1f<br>1c<br>1sd<br>2co</td>
+    <td>-1.5p<br>0d<br>0fr<br>+0.5v<br>0f<br>0c<br>0sd<br>0co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>S</td>
+    <td>salad<br>(cottage cheese, cucumber, tomato, sun-dried tomato & oregano dressing)<br>1d<br>1.5v<br>1co</td>
+    <td>hard-boiled egg<br>0.5p<br><br>cheese string<br>0.5p</td>
+    <td>tuna salad<br>2p<br>1f<br><br>english muffin<br>0.5c</td>
+    <td>almonds<br>1sd<br><br>1 beer<br>1c</td>
+    <td>chopped chicken salad<br>1p<br>2.5v<br>1co<br><br>strawberries<br>1fr</td>
+    <td>X</td>
+    <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
+    <td>3.5p<br>1.5d<br>1fr<br>4v<br>1f<br>1.5c<br>1sd<br>2co</td>
+    <td>-3.5p<br>-1.5d<br>0fr<br>0v<br>0f<br>+0.5c<br>0sd<br>0co</td>
+  </tr>
+</table>
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
 
@@ -30,15 +119,104 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 
 <a name="week-2"></a>
 #### Week 2
-|Day|Breakfast|Snack|Lunch|Snack|Dinner|Post Workout|Target|Actual|Diff|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Mon|protein shake (milk + protein powder + banana) (2p, 1fr, 1d)|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|2p, 1d, 1fr, 0v, 0f, 0c, 0sd, 0co|-5p, -2d, -4v, -1f, -1c, -1sd, -2co|
-|Tue|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Wed|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Thu|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Fri|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Sat|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Sun|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+<table width=100>
+  <tr valign="top" align="left">
+    <th>Day</th>
+    <th>Breakfast</th>
+    <th>Snack</th>
+    <th>Lunch</th>
+    <th>Snack</th>
+    <th>Dinner</th>
+    <th>Post Workout</th>
+    <th>Target</th>
+    <th>Actual</th>
+    <th>Diff</th>
+  </tr>
+  <tr valign="top" align="left">
+    <td>M</td>
+    <td>protein shake<br>(milk + protein powder + banana)<br>2p<br>1fr<br>1d</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>T</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co<br></td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>W</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>T</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>F</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>S</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>S</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
+  </tr>
+</table>
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
 
@@ -46,15 +224,104 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 
 <a name="week-3"></a>
 #### Week 3
-|Day|Breakfast|Snack|Lunch|Snack|Dinner|Post Workout|Target|Actual|Diff|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Mon|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Tue|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Wed|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Thu|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Fri|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Sat|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Sun|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+<table width=100>
+  <tr valign="top" align="left">
+    <th>Day</th>
+    <th>Breakfast</th>
+    <th>Snack</th>
+    <th>Lunch</th>
+    <th>Snack</th>
+    <th>Dinner</th>
+    <th>Post Workout</th>
+    <th>Target</th>
+    <th>Actual</th>
+    <th>Diff</th>
+  </tr>
+  <tr valign="top" align="left">
+    <td>M</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>T</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co<br></td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>W</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>T</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>F</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>S</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>S</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
+  </tr>
+</table>
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
 
@@ -62,15 +329,104 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 
 <a name="week-4"></a>
 #### Week 4
-|Day|Breakfast|Snack|Lunch|Snack|Dinner|Post Workout|Target|Actual|Diff|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Mon|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Tue|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Wed|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Thu|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Fri|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Sat|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Sun|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+<table width=100>
+  <tr valign="top" align="left">
+    <th>Day</th>
+    <th>Breakfast</th>
+    <th>Snack</th>
+    <th>Lunch</th>
+    <th>Snack</th>
+    <th>Dinner</th>
+    <th>Post Workout</th>
+    <th>Target</th>
+    <th>Actual</th>
+    <th>Diff</th>
+  </tr>
+  <tr valign="top" align="left">
+    <td>M</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>T</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co<br></td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>W</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>T</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>F</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>S</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>S</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
+  </tr>
+</table>
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
 
@@ -82,15 +438,104 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 
 <a name="week-5"></a>
 #### Week 5
-|Day|Breakfast|Snack|Lunch|Snack|Dinner|Post Workout|Target|Actual|Diff|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Mon|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Tue|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Wed|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Thu|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Fri|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Sat|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Sun|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+<table width=100>
+  <tr valign="top" align="left">
+    <th>Day</th>
+    <th>Breakfast</th>
+    <th>Snack</th>
+    <th>Lunch</th>
+    <th>Snack</th>
+    <th>Dinner</th>
+    <th>Post Workout</th>
+    <th>Target</th>
+    <th>Actual</th>
+    <th>Diff</th>
+  </tr>
+  <tr valign="top" align="left">
+    <td>M</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>T</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>W</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>T</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>F</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>S</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>S</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
+  </tr>
+</table>
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
 
@@ -98,15 +543,104 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 
 <a name="week-6"></a>
 #### Week 6
-|Day|Breakfast|Snack|Lunch|Snack|Dinner|Post Workout|Target|Actual|Diff|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Mon|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Tue|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Wed|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Thu|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Fri|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Sat|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Sun|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+<table width=100>
+  <tr valign="top" align="left">
+    <th>Day</th>
+    <th>Breakfast</th>
+    <th>Snack</th>
+    <th>Lunch</th>
+    <th>Snack</th>
+    <th>Dinner</th>
+    <th>Post Workout</th>
+    <th>Target</th>
+    <th>Actual</th>
+    <th>Diff</th>
+  </tr>
+  <tr valign="top" align="left">
+    <td>M</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>T</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>W</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>T</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>F</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>S</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>S</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
+  </tr>
+</table>
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
 
@@ -114,15 +648,104 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 
 <a name="week-7"></a>
 #### Week 7
-|Day|Breakfast|Snack|Lunch|Snack|Dinner|Post Workout|Target|Actual|Diff|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Mon|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Tue|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Wed|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Thu|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Fri|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Sat|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Sun|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+<table width=100>
+  <tr valign="top" align="left">
+    <th>Day</th>
+    <th>Breakfast</th>
+    <th>Snack</th>
+    <th>Lunch</th>
+    <th>Snack</th>
+    <th>Dinner</th>
+    <th>Post Workout</th>
+    <th>Target</th>
+    <th>Actual</th>
+    <th>Diff</th>
+  </tr>
+  <tr valign="top" align="left">
+    <td>M</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>T</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>W</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>T</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>F</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>S</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>S</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
+  </tr>
+</table>
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
 
@@ -130,15 +753,104 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 
 <a name="week-8"></a>
 #### Week 8
-|Day|Breakfast|Snack|Lunch|Snack|Dinner|Post Workout|Target|Actual|Diff|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Mon|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Tue|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Wed|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Thu|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Fri|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Sat|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Sun|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+<table width=100>
+  <tr valign="top" align="left">
+    <th>Day</th>
+    <th>Breakfast</th>
+    <th>Snack</th>
+    <th>Lunch</th>
+    <th>Snack</th>
+    <th>Dinner</th>
+    <th>Post Workout</th>
+    <th>Target</th>
+    <th>Actual</th>
+    <th>Diff</th>
+  </tr>
+  <tr valign="top" align="left">
+    <td>M</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>T</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>W</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>T</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>F</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>S</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>S</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
+  </tr>
+</table>
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
 
@@ -150,15 +862,104 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 
 <a name="week-9"></a>
 #### Week 9
-|Day|Breakfast|Snack|Lunch|Snack|Dinner|Post Workout|Target|Actual|Diff|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Mon|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Tue|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Wed|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Thu|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Fri|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Sat|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Sun|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+<table width=100>
+  <tr valign="top" align="left">
+    <th>Day</th>
+    <th>Breakfast</th>
+    <th>Snack</th>
+    <th>Lunch</th>
+    <th>Snack</th>
+    <th>Dinner</th>
+    <th>Post Workout</th>
+    <th>Target</th>
+    <th>Actual</th>
+    <th>Diff</th>
+  </tr>
+  <tr valign="top" align="left">
+    <td>M</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>T</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>W</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>T</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>F</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>S</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>S</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
+  </tr>
+</table>
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
 
@@ -166,15 +967,104 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 
 <a name="week-10"></a>
 #### Week 10
-|Day|Breakfast|Snack|Lunch|Snack|Dinner|Post Workout|Target|Actual|Diff|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Mon|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Tue|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Wed|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Thu|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Fri|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Sat|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Sun|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+<table width=100>
+  <tr valign="top" align="left">
+    <th>Day</th>
+    <th>Breakfast</th>
+    <th>Snack</th>
+    <th>Lunch</th>
+    <th>Snack</th>
+    <th>Dinner</th>
+    <th>Post Workout</th>
+    <th>Target</th>
+    <th>Actual</th>
+    <th>Diff</th>
+  </tr>
+  <tr valign="top" align="left">
+    <td>M</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>T</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>W</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>T</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>F</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>S</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>S</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
+  </tr>
+</table>
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
 
@@ -182,15 +1072,104 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 
 <a name="week-11"></a>
 #### Week 11
-|Day|Breakfast|Snack|Lunch|Snack|Dinner|Post Workout|Target|Actual|Diff|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Mon|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Tue|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Wed|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Thu|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Fri|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Sat|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Sun|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+<table width=100>
+  <tr valign="top" align="left">
+    <th>Day</th>
+    <th>Breakfast</th>
+    <th>Snack</th>
+    <th>Lunch</th>
+    <th>Snack</th>
+    <th>Dinner</th>
+    <th>Post Workout</th>
+    <th>Target</th>
+    <th>Actual</th>
+    <th>Diff</th>
+  </tr>
+  <tr valign="top" align="left">
+    <td>M</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>T</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>W</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>T</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>F</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>S</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>S</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
+  </tr>
+</table>
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
 
@@ -198,15 +1177,104 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 
 <a name="week-12"></a>
 #### Week 12
-|Day|Breakfast|Snack|Lunch|Snack|Dinner|Post Workout|Target|Actual|Diff|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Mon|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Tue|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Wed|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Thu|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Fri|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Sat|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
-|Sun|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+<table width=100>
+  <tr valign="top" align="left">
+    <th>Day</th>
+    <th>Breakfast</th>
+    <th>Snack</th>
+    <th>Lunch</th>
+    <th>Snack</th>
+    <th>Dinner</th>
+    <th>Post Workout</th>
+    <th>Target</th>
+    <th>Actual</th>
+    <th>Diff</th>
+  </tr>
+  <tr valign="top" align="left">
+    <td>M</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>T</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>W</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>T</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>F</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>S</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
+  </tr>
+  <tr valign="top" align="left">
+    <td>S</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
+  </tr>
+</table>
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
 
