@@ -32,13 +32,13 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 #### Week 2
 |Day|Breakfast|Snack|Lunch|Snack|Dinner|Post Workout|Target|Actual|Diff|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Mon|?|?|?|?|?|?|?|?|?|
-|Tue|?|?|?|?|?|?|?|?|?|
-|Wed|?|?|?|?|?|?|?|?|?|
-|Thu|?|?|?|?|?|?|?|?|?|
-|Fri|?|?|?|?|?|?|?|?|?|
-|Sat|?|?|?|?|?|?|?|?|?|
-|Sun|?|?|?|?|?|?|?|?|?|
+|Mon|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Tue|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Wed|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Thu|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Fri|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Sat|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Sun|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
 
@@ -48,13 +48,13 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 #### Week 3
 |Day|Breakfast|Snack|Lunch|Snack|Dinner|Post Workout|Target|Actual|Diff|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Mon|?|?|?|?|?|?|?|?|?|
-|Tue|?|?|?|?|?|?|?|?|?|
-|Wed|?|?|?|?|?|?|?|?|?|
-|Thu|?|?|?|?|?|?|?|?|?|
-|Fri|?|?|?|?|?|?|?|?|?|
-|Sat|?|?|?|?|?|?|?|?|?|
-|Sun|?|?|?|?|?|?|?|?|?|
+|Mon|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Tue|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Wed|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Thu|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Fri|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Sat|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Sun|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
 
@@ -64,13 +64,13 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 #### Week 4
 |Day|Breakfast|Snack|Lunch|Snack|Dinner|Post Workout|Target|Actual|Diff|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Mon|?|?|?|?|?|?|?|?|?|
-|Tue|?|?|?|?|?|?|?|?|?|
-|Wed|?|?|?|?|?|?|?|?|?|
-|Thu|?|?|?|?|?|?|?|?|?|
-|Fri|?|?|?|?|?|?|?|?|?|
-|Sat|?|?|?|?|?|?|?|?|?|
-|Sun|?|?|?|?|?|?|?|?|?|
+|Mon|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Tue|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Wed|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Thu|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Fri|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Sat|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Sun|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
 
@@ -84,13 +84,13 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 #### Week 5
 |Day|Breakfast|Snack|Lunch|Snack|Dinner|Post Workout|Target|Actual|Diff|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Mon|?|?|?|?|?|?|?|?|?|
-|Tue|?|?|?|?|?|?|?|?|?|
-|Wed|?|?|?|?|?|?|?|?|?|
-|Thu|?|?|?|?|?|?|?|?|?|
-|Fri|?|?|?|?|?|?|?|?|?|
-|Sat|?|?|?|?|?|?|?|?|?|
-|Sun|?|?|?|?|?|?|?|?|?|
+|Mon|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Tue|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Wed|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Thu|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Fri|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Sat|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Sun|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
 
@@ -100,13 +100,13 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 #### Week 6
 |Day|Breakfast|Snack|Lunch|Snack|Dinner|Post Workout|Target|Actual|Diff|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Mon|?|?|?|?|?|?|?|?|?|
-|Tue|?|?|?|?|?|?|?|?|?|
-|Wed|?|?|?|?|?|?|?|?|?|
-|Thu|?|?|?|?|?|?|?|?|?|
-|Fri|?|?|?|?|?|?|?|?|?|
-|Sat|?|?|?|?|?|?|?|?|?|
-|Sun|?|?|?|?|?|?|?|?|?|
+|Mon|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Tue|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Wed|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Thu|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Fri|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Sat|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Sun|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
 
@@ -116,13 +116,13 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 #### Week 7
 |Day|Breakfast|Snack|Lunch|Snack|Dinner|Post Workout|Target|Actual|Diff|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Mon|?|?|?|?|?|?|?|?|?|
-|Tue|?|?|?|?|?|?|?|?|?|
-|Wed|?|?|?|?|?|?|?|?|?|
-|Thu|?|?|?|?|?|?|?|?|?|
-|Fri|?|?|?|?|?|?|?|?|?|
-|Sat|?|?|?|?|?|?|?|?|?|
-|Sun|?|?|?|?|?|?|?|?|?|
+|Mon|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Tue|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Wed|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Thu|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Fri|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Sat|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Sun|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
 
@@ -132,13 +132,13 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 #### Week 8
 |Day|Breakfast|Snack|Lunch|Snack|Dinner|Post Workout|Target|Actual|Diff|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Mon|?|?|?|?|?|?|?|?|?|
-|Tue|?|?|?|?|?|?|?|?|?|
-|Wed|?|?|?|?|?|?|?|?|?|
-|Thu|?|?|?|?|?|?|?|?|?|
-|Fri|?|?|?|?|?|?|?|?|?|
-|Sat|?|?|?|?|?|?|?|?|?|
-|Sun|?|?|?|?|?|?|?|?|?|
+|Mon|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Tue|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Wed|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Thu|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Fri|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Sat|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Sun|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
 
@@ -152,13 +152,13 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 #### Week 9
 |Day|Breakfast|Snack|Lunch|Snack|Dinner|Post Workout|Target|Actual|Diff|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Mon|?|?|?|?|?|?|?|?|?|
-|Tue|?|?|?|?|?|?|?|?|?|
-|Wed|?|?|?|?|?|?|?|?|?|
-|Thu|?|?|?|?|?|?|?|?|?|
-|Fri|?|?|?|?|?|?|?|?|?|
-|Sat|?|?|?|?|?|?|?|?|?|
-|Sun|?|?|?|?|?|?|?|?|?|
+|Mon|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Tue|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Wed|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Thu|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Fri|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Sat|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Sun|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
 
@@ -168,13 +168,13 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 #### Week 10
 |Day|Breakfast|Snack|Lunch|Snack|Dinner|Post Workout|Target|Actual|Diff|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Mon|?|?|?|?|?|?|?|?|?|
-|Tue|?|?|?|?|?|?|?|?|?|
-|Wed|?|?|?|?|?|?|?|?|?|
-|Thu|?|?|?|?|?|?|?|?|?|
-|Fri|?|?|?|?|?|?|?|?|?|
-|Sat|?|?|?|?|?|?|?|?|?|
-|Sun|?|?|?|?|?|?|?|?|?|
+|Mon|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Tue|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Wed|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Thu|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Fri|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Sat|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Sun|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
 
@@ -184,13 +184,13 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 #### Week 11
 |Day|Breakfast|Snack|Lunch|Snack|Dinner|Post Workout|Target|Actual|Diff|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Mon|?|?|?|?|?|?|?|?|?|
-|Tue|?|?|?|?|?|?|?|?|?|
-|Wed|?|?|?|?|?|?|?|?|?|
-|Thu|?|?|?|?|?|?|?|?|?|
-|Fri|?|?|?|?|?|?|?|?|?|
-|Sat|?|?|?|?|?|?|?|?|?|
-|Sun|?|?|?|?|?|?|?|?|?|
+|Mon|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Tue|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Wed|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Thu|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Fri|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Sat|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Sun|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
 
@@ -200,13 +200,13 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 #### Week 12
 |Day|Breakfast|Snack|Lunch|Snack|Dinner|Post Workout|Target|Actual|Diff|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Mon|?|?|?|?|?|?|?|?|?|
-|Tue|?|?|?|?|?|?|?|?|?|
-|Wed|?|?|?|?|?|?|?|?|?|
-|Thu|?|?|?|?|?|?|?|?|?|
-|Fri|?|?|?|?|?|?|?|?|?|
-|Sat|?|?|?|?|?|?|?|?|?|
-|Sun|?|?|?|?|?|?|?|?|?|
+|Mon|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Tue|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Wed|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Thu|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Fri|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Sat|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
+|Sun|?|?|?|?|?|?|7p, 3d, 1fr, 4v, 1f, 1c, 1sd, 2co|0p, 0d, 0fr, 0v, 0f, 0c, 0sd, 0co|-7p, -3d, -1fr, -4v, -1f, -1c, -1sd, -2co|
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
 
