@@ -14,7 +14,7 @@
 
 <a name="week-1"></a>
 #### Week 1
-<table>
+<table width=100>
   <tr valign="top" align="left">
     <th>Day</th>
     <th>Breakfast</th>
@@ -26,7 +26,7 @@
     <th>Target</th>
     <th>Actual</th>
     <th>Diff</th>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>M</td>
     <td>?</td>
@@ -38,7 +38,7 @@
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>T</td>
     <td>?</td>
@@ -50,7 +50,7 @@
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co<br></td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>W</td>
     <td>?</td>
@@ -62,7 +62,7 @@
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>T</td>
     <td>?</td>
@@ -74,7 +74,7 @@
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>F</td>
     <td>?</td>
@@ -86,7 +86,7 @@
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>S</td>
     <td>?</td>
@@ -98,7 +98,7 @@
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>S</td>
     <td>?</td>
@@ -110,7 +110,7 @@
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
-  </tr valign="top" align="left">
+  </tr>
 </table>
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
@@ -119,7 +119,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 
 <a name="week-2"></a>
 #### Week 2
-<table>
+<table width=100>
   <tr valign="top" align="left">
     <th>Day</th>
     <th>Breakfast</th>
@@ -131,7 +131,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <th>Target</th>
     <th>Actual</th>
     <th>Diff</th>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>M</td>
     <td>?</td>
@@ -143,7 +143,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>T</td>
     <td>?</td>
@@ -155,7 +155,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co<br></td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>W</td>
     <td>?</td>
@@ -167,7 +167,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>T</td>
     <td>?</td>
@@ -179,7 +179,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>F</td>
     <td>?</td>
@@ -191,7 +191,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>S</td>
     <td>?</td>
@@ -203,7 +203,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>S</td>
     <td>?</td>
@@ -215,7 +215,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
-  </tr valign="top" align="left">
+  </tr>
 </table>
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
@@ -224,7 +224,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 
 <a name="week-3"></a>
 #### Week 3
-<table>
+<table width=100>
   <tr valign="top" align="left">
     <th>Day</th>
     <th>Breakfast</th>
@@ -236,7 +236,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <th>Target</th>
     <th>Actual</th>
     <th>Diff</th>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>M</td>
     <td>?</td>
@@ -248,7 +248,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>T</td>
     <td>?</td>
@@ -260,7 +260,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co<br></td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>W</td>
     <td>?</td>
@@ -272,7 +272,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>T</td>
     <td>?</td>
@@ -284,7 +284,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>F</td>
     <td>?</td>
@@ -296,7 +296,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>S</td>
     <td>?</td>
@@ -308,7 +308,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>S</td>
     <td>?</td>
@@ -320,7 +320,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
-  </tr valign="top" align="left">
+  </tr>
 </table>
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
@@ -329,7 +329,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 
 <a name="week-4"></a>
 #### Week 4
-<table>
+<table width=100>
   <tr valign="top" align="left">
     <th>Day</th>
     <th>Breakfast</th>
@@ -341,7 +341,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <th>Target</th>
     <th>Actual</th>
     <th>Diff</th>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>M</td>
     <td>?</td>
@@ -353,7 +353,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>T</td>
     <td>?</td>
@@ -365,7 +365,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co<br></td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>W</td>
     <td>?</td>
@@ -377,7 +377,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>T</td>
     <td>?</td>
@@ -389,7 +389,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>F</td>
     <td>?</td>
@@ -401,7 +401,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>S</td>
     <td>?</td>
@@ -413,7 +413,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>S</td>
     <td>?</td>
@@ -425,7 +425,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
-  </tr valign="top" align="left">
+  </tr>
 </table>
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
@@ -438,7 +438,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 
 <a name="week-5"></a>
 #### Week 5
-<table>
+<table width=100>
   <tr valign="top" align="left">
     <th>Day</th>
     <th>Breakfast</th>
@@ -450,7 +450,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <th>Target</th>
     <th>Actual</th>
     <th>Diff</th>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>M</td>
     <td>?</td>
@@ -462,7 +462,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>T</td>
     <td>?</td>
@@ -474,7 +474,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>W</td>
     <td>?</td>
@@ -486,7 +486,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>T</td>
     <td>?</td>
@@ -498,7 +498,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>F</td>
     <td>?</td>
@@ -510,7 +510,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>S</td>
     <td>?</td>
@@ -522,7 +522,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>S</td>
     <td>?</td>
@@ -534,7 +534,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
-  </tr valign="top" align="left">
+  </tr>
 </table>
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
@@ -543,7 +543,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 
 <a name="week-6"></a>
 #### Week 6
-<table>
+<table width=100>
   <tr valign="top" align="left">
     <th>Day</th>
     <th>Breakfast</th>
@@ -555,7 +555,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <th>Target</th>
     <th>Actual</th>
     <th>Diff</th>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>M</td>
     <td>?</td>
@@ -567,7 +567,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>T</td>
     <td>?</td>
@@ -579,7 +579,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>W</td>
     <td>?</td>
@@ -591,7 +591,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>T</td>
     <td>?</td>
@@ -603,7 +603,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>F</td>
     <td>?</td>
@@ -615,7 +615,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>S</td>
     <td>?</td>
@@ -627,7 +627,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>S</td>
     <td>?</td>
@@ -639,7 +639,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
-  </tr valign="top" align="left">
+  </tr>
 </table>
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
@@ -648,7 +648,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 
 <a name="week-7"></a>
 #### Week 7
-<table>
+<table width=100>
   <tr valign="top" align="left">
     <th>Day</th>
     <th>Breakfast</th>
@@ -660,7 +660,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <th>Target</th>
     <th>Actual</th>
     <th>Diff</th>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>M</td>
     <td>?</td>
@@ -672,7 +672,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>T</td>
     <td>?</td>
@@ -684,7 +684,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>W</td>
     <td>?</td>
@@ -696,7 +696,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>T</td>
     <td>?</td>
@@ -708,7 +708,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>F</td>
     <td>?</td>
@@ -720,7 +720,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>S</td>
     <td>?</td>
@@ -732,7 +732,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>S</td>
     <td>?</td>
@@ -744,7 +744,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
-  </tr valign="top" align="left">
+  </tr>
 </table>
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
@@ -753,7 +753,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 
 <a name="week-8"></a>
 #### Week 8
-<table>
+<table width=100>
   <tr valign="top" align="left">
     <th>Day</th>
     <th>Breakfast</th>
@@ -765,7 +765,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <th>Target</th>
     <th>Actual</th>
     <th>Diff</th>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>M</td>
     <td>?</td>
@@ -777,7 +777,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>T</td>
     <td>?</td>
@@ -789,7 +789,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>W</td>
     <td>?</td>
@@ -801,7 +801,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>T</td>
     <td>?</td>
@@ -813,7 +813,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>F</td>
     <td>?</td>
@@ -825,7 +825,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>S</td>
     <td>?</td>
@@ -837,7 +837,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>S</td>
     <td>?</td>
@@ -849,7 +849,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
-  </tr valign="top" align="left">
+  </tr>
 </table>
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
@@ -862,7 +862,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 
 <a name="week-9"></a>
 #### Week 9
-<table>
+<table width=100>
   <tr valign="top" align="left">
     <th>Day</th>
     <th>Breakfast</th>
@@ -874,7 +874,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <th>Target</th>
     <th>Actual</th>
     <th>Diff</th>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>M</td>
     <td>?</td>
@@ -886,7 +886,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>T</td>
     <td>?</td>
@@ -898,7 +898,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>W</td>
     <td>?</td>
@@ -910,7 +910,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>T</td>
     <td>?</td>
@@ -922,7 +922,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>F</td>
     <td>?</td>
@@ -934,7 +934,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>S</td>
     <td>?</td>
@@ -946,7 +946,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>S</td>
     <td>?</td>
@@ -958,7 +958,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
-  </tr valign="top" align="left">
+  </tr>
 </table>
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
@@ -967,7 +967,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 
 <a name="week-10"></a>
 #### Week 10
-<table>
+<table width=100>
   <tr valign="top" align="left">
     <th>Day</th>
     <th>Breakfast</th>
@@ -979,7 +979,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <th>Target</th>
     <th>Actual</th>
     <th>Diff</th>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>M</td>
     <td>?</td>
@@ -991,7 +991,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>T</td>
     <td>?</td>
@@ -1003,7 +1003,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>W</td>
     <td>?</td>
@@ -1015,7 +1015,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>T</td>
     <td>?</td>
@@ -1027,7 +1027,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>F</td>
     <td>?</td>
@@ -1039,7 +1039,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>S</td>
     <td>?</td>
@@ -1051,7 +1051,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>S</td>
     <td>?</td>
@@ -1063,7 +1063,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
-  </tr valign="top" align="left">
+  </tr>
 </table>
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
@@ -1072,7 +1072,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 
 <a name="week-11"></a>
 #### Week 11
-<table>
+<table width=100>
   <tr valign="top" align="left">
     <th>Day</th>
     <th>Breakfast</th>
@@ -1084,7 +1084,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <th>Target</th>
     <th>Actual</th>
     <th>Diff</th>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>M</td>
     <td>?</td>
@@ -1096,7 +1096,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>T</td>
     <td>?</td>
@@ -1108,7 +1108,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>W</td>
     <td>?</td>
@@ -1120,7 +1120,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>T</td>
     <td>?</td>
@@ -1132,7 +1132,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>F</td>
     <td>?</td>
@@ -1144,7 +1144,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>S</td>
     <td>?</td>
@@ -1156,7 +1156,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>S</td>
     <td>?</td>
@@ -1168,7 +1168,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
-  </tr valign="top" align="left">
+  </tr>
 </table>
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
@@ -1177,7 +1177,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
 
 <a name="week-12"></a>
 #### Week 12
-<table>
+<table width=100>
   <tr valign="top" align="left">
     <th>Day</th>
     <th>Breakfast</th>
@@ -1189,7 +1189,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <th>Target</th>
     <th>Actual</th>
     <th>Diff</th>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>M</td>
     <td>?</td>
@@ -1201,7 +1201,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>T</td>
     <td>?</td>
@@ -1213,7 +1213,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>W</td>
     <td>?</td>
@@ -1225,7 +1225,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>T</td>
     <td>?</td>
@@ -1237,7 +1237,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>F</td>
     <td>?</td>
@@ -1249,7 +1249,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>S</td>
     <td>?</td>
@@ -1261,7 +1261,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
-  </tr valign="top" align="left">
+  </tr>
   <tr valign="top" align="left">
     <td>S</td>
     <td>?</td>
@@ -1273,7 +1273,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>3p<br>1d<br>3fr<br>3v<br>1f<br>4c<br>1sd + 1ss<br>3co</td>
     <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
     <td>-3p<br>-1d<br>-3fr<br>-3v<br>-1f<br>-4c<br>-1sd + -1ss<br>-3co</td>
-  </tr valign="top" align="left">
+  </tr>
 </table>
 
 c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, sd=snack-double, v=veggies
