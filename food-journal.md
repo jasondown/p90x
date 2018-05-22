@@ -147,14 +147,14 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
   <tr valign="top" align="left">
     <td>T</td>
     <td>1/2 protein shake<br>(milk + protein powder)<br>0.5p<br>0.5d<br><br>blackberries<br>0.5fr</td>
-    <td>protein bar<br>1sd</td>
+    <td>protein bar<br>2p</td>
     <td>heritage green salad<br>2v<br>1co<br>1/2fr</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co<br></td>
-    <td>0.5p<br>0d<br>1fr<br>2v<br>0f<br>0c<br>1sd<br>1co</td>
-    <td>-6.5p<br>-3d<br>0fr<br>-2v<br>-1f<br>-1c<br>0sd<br>-1co</td>
+    <td>2.5p<br>0d<br>1fr<br>2v<br>0f<br>0c<br>0sd<br>1co</td>
+    <td>-4.5p<br>-3d<br>0fr<br>-2v<br>-1f<br>-1c<br>-1sd<br>-1co</td>
   </tr>
   <tr valign="top" align="left">
     <td>W</td>
