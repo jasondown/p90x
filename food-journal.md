@@ -135,26 +135,26 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
   <tr valign="top" align="left">
     <td>M</td>
     <td>protein shake<br>(milk + protein powder + banana)<br>2p<br>1fr<br>1d</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>hard-boiled egg<br>0.5p<br>0.5f</td>
+    <td>tuna salad<br>2p<br>1f<br><br>english muffin<br>0.5c</td>
+    <td>X</td>
+    <td>california roll<br>2p<br>1c<br>1v<br>1co<br>0.5d<br><br>broccolini<br>1v<br><br>salad<br>2v<br>1co</td>
+    <td>sliced lean oven roasted chicken<br>0.5p</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
-    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
-    <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
+    <td>7p<br>1.5d<br>1fr<br>4v<br>1.5f<br>1.5c<br>0ss<br>2co</td>
+    <td>0p<br>-1d<br>0fr<br>0v<br>+0.5f<br>+0.5c<br>-1sd<br>0co</td>
   </tr>
   <tr valign="top" align="left">
     <td>T</td>
-    <td>?</td>
+    <td>1/2 protein shake<br>(milk + protein powder)<br>0.5p<br>0.5d<br><br>blackberries<br>0.5fr</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co<br></td>
-    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
-    <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
+    <td>0.5p<br>0d<br>0.5fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-6.5p<br>-3d<br>-0.5fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
   </tr>
   <tr valign="top" align="left">
     <td>W</td>
