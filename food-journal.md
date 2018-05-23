@@ -161,12 +161,12 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>cottage cheese<br>1d<br><br>2 turkey pepperettes<br>1p<br><br>strawberries<br>1fr</td>
     <td>protein bar<br>1sd</td>
     <td>tuna salad<br>2p<br>1f<br><br>english muffin<br>0.5c<br><br>butternut squash soup<br>0.5v</td>
-    <td>?</td>
+    <td>unsalted sunflower seeds<br>1ss</td>
     <td>?</td>
     <td>?</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
-    <td>3p<br>1d<br>1fr<br>0.5v<br>1f<br>0.5c<br>1sd<br>0co</td>
-    <td>-3p<br>-2d<br>-0fr<br>-3.5v<br>0f<br>-0.5c<br>0sd<br>-2co</td>
+    <td>3p<br>1d<br>1fr<br>0.5v<br>1f<br>0.5c<br>1.5sd<br>0co</td>
+    <td>-3p<br>-2d<br>-0fr<br>-3.5v<br>0f<br>-0.5c<br>+0.5sd<br>-2co</td>
   </tr>
   <tr valign="top" align="left">
     <td>T</td>
