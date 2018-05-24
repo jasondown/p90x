@@ -171,14 +171,14 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
   <tr valign="top" align="left">
     <td>T</td>
     <td>3 egg omelette<br>(spinach, mushroom, feta, lean ham)<br>2p<br>0.5d<br>1v<br>1f</td>
-    <td>?</td>
+    <td>quinoa nut bar<br>1sd</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
-    <td>2p<br>0.5d<br>0fr<br>1v<br>1f<br>0c<br>0ss<br>0co</td>
-    <td>-5p<br>-2.5d<br>-1fr<br>-3v<br>0f<br>-1c<br>-1sd<br>-2co</td>
+    <td>2p<br>0.5d<br>0fr<br>1v<br>1f<br>0c<br>1sd<br>0co</td>
+    <td>-5p<br>-2.5d<br>-1fr<br>-3v<br>0f<br>-1c<br>0sd<br>-2co</td>
   </tr>
   <tr valign="top" align="left">
     <td>F</td>
