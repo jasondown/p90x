@@ -166,7 +166,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>protein shake<br>(milk + protein powder)<br>2p<br>1d</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>7p<br>2d<br>1fr<br>3.5v<br>1f<br>1c<br>1.5sd<br>1co</td>
-    <td>0p<br>-1d<br>-0fr<br>-0.5v<br>0f<br>0c<br>+0.5sd<br>-1co</td>
+    <td>0p<br>-1d<br>0fr<br>-0.5v<br>0f<br>0c<br>+0.5sd<br>-1co</td>
   </tr>
   <tr valign="top" align="left">
     <td>T</td>
