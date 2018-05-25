@@ -175,7 +175,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>butternut squash soup<br>0.5v<br><br>salad<br>(cottage cheese, cucumber, tomato, sun-dried tomato & oregano dressing)<br>1d<br>1.5v<br>1co</td>
     <td>beef jerkey<br>0.5p<br><br>turkey pepperette<br>0.5p</td>
     <td>protein shake<br>(milk + protein powder + banana<br>2p<br>1fr<br>1d</td>
-    <td>?</td>
+    <td>X</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>5p<br>2.5d<br>1fr<br>3v<br>1f<br>0c<br>1sd<br>1co</td>
     <td>-2p<br>-0.5d<br>0fr<br>-1v<br>0f<br>-1c<br>0sd<br>-1co</td>
