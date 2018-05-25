@@ -185,12 +185,12 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>turkey pepperette<br>0.5p<br><br>cottage cheese<br>1d</td>
     <td>protein bar<br>1sd</td>
     <td>heritage green salad<br>2v<br>0.5fr<br>2co</td>
-    <td>?</td>
+    <td>cliff bar<br>1.5p<br>0.5c<br></td>
     <td>?</td>
     <td>?</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
-    <td>0.5p<br>1d<br>0.5fr<br>2v<br>0f<br>0c<br>1sd<br>2co</td>
-    <td>-6.5p<br>-2d<br>-0.5fr<br>-2v<br>-1f<br>-1c<br>0sd<br>0co</td>
+    <td>2p<br>1d<br>0.5fr<br>2v<br>0f<br>0.5c<br>1sd<br>2co</td>
+    <td>-5p<br>-2d<br>-0.5fr<br>-2v<br>-1f<br>-0.5c<br>0sd<br>0co</td>
   </tr>
   <tr valign="top" align="left">
     <td>S</td>
