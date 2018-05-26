@@ -77,15 +77,15 @@
   </tr>
   <tr valign="top" align="left">
     <td>F</td>
-    <td>omelette<br>(egg whites, ham, mozzarella, mixed sauteed veggies)<br>2.5p<br>0.5f<br>1v<br>1d<br><br>1/2 apple<br>0.5fr<br><br>blackberries<br>0.5fr</td>
+    <td>omelette<br>(egg whites, ham, mozzarella, mixed sauteed veggies)<br>2.5p<br>1v<br>1d<br><br>1/2 apple<br>0.5fr<br><br>blackberries<br>0.5fr</td>
     <td>almonds<br>1sd</td>
     <td>Chopped salad<br>2v<br>1co</td>
     <td>turkey pepperette<br>0.5p<br><br>cheese string<br>0.5d</td>
     <td>3 small slices Hawaaiin pizza<br>1c<br>0.5d<br>0.5p<br>0.5fr<br>0.5v</td>
     <td>protein bar<br>2p</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
-    <td>5.5p<br>2d<br>1.5fr<br>3.5v<br>0.5f<br>1c<br>1sd<br>1co</td>
-    <td>-1.5p<br>-1d<br>+0.5fr<br>-0.5v<br>=0.5f<br>0c<br>0sd<br>-1co</td>
+    <td>5.5p<br>2d<br>1.5fr<br>3.5v<br>0f<br>1c<br>1sd<br>1co</td>
+    <td>-1.5p<br>-1d<br>+0.5fr<br>-0.5v<br>-1f<br>0c<br>0sd<br>-1co</td>
   </tr>
   <tr valign="top" align="left">
     <td>S</td>
@@ -93,11 +93,11 @@
     <td>almonds<br>1sd</td>
     <td>tuna salad<br>2p<br>1f<br><br>english muffin<br>0.5c<br><br>Chopped salad<br>2v<br>1co</td>
     <td>roasted chicken breast<br>0.5p<br><br>small slice Hawaaiian pizza<br>0.5c</td>
-    <td>Omelette<br>(eggs, mozzarella, mixed sauteed veggies)<br>1.5p<br>1d<br>1v</td>
+    <td>Omelette<br>(eggs, mozzarella, mixed sauteed veggies)<br>1.5p<br>1d<br>1v<br>1f</td>
     <td>protein shake<br>(milk + protein powder)<br>2p<br>1d</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
-    <td>5.5p<br>3d<br>1fr<br>4.5v<br>1f<br>1c<br>1sd<br>2co</td>
-    <td>-1.5p<br>0d<br>0fr<br>+0.5v<br>0f<br>0c<br>0sd<br>0co</td>
+    <td>5.5p<br>3d<br>1fr<br>4.5v<br>2f<br>1c<br>1sd<br>2co</td>
+    <td>-1.5p<br>0d<br>0fr<br>+0.5v<br>+1f<br>0c<br>0sd<br>0co</td>
   </tr>
   <tr valign="top" align="left">
     <td>S</td>
@@ -196,13 +196,13 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>S</td>
     <td>protein bar<br>2p</td>
     <td>?</td>
-    <td>omelette<br>(2 eggs, spinach, mushrooms, onion, goat cheese)<br>1p<br>1v<br>1d</td>
-    <td>?</td>
+    <td>omelette<br>(2 eggs, spinach, mushrooms, onion, goat cheese)<br>1p<br>1v<br>1d<br>0.5f</td>
+    <td>tuna salad<br>2p<br>1f</td>
     <td>?</td>
     <td>?</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
-    <td>3p<br>1d<br>0fr<br>1v<br>0f<br>0c<br>0ss<br>0co</td>
-    <td>-4p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
+    <td>5p<br>1d<br>0fr<br>1v<br>1.5f<br>0c<br>0ss<br>0co</td>
+    <td>-2p<br>-2d<br>-1fr<br>-3v<br>+0.5f<br>-1c<br>-1sd<br>-2co</td>
   </tr>
   <tr valign="top" align="left">
     <td>S</td>
