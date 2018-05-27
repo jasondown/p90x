@@ -194,15 +194,15 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
   </tr>
   <tr valign="top" align="left">
     <td>S</td>
-    <td>protein bar<br>2p</td>
+    <td>protein bar<br>1sd</td>
     <td>tuna salad<br>2p<br>1f</td>
     <td>omelette<br>(2 eggs, spinach, mushrooms, onion, goat cheese)<br>1p<br>1v<br>1d<br>0.5f</td>
     <td>light beer<br>1c</td>
-    <td>?</td>
+    <td>beef & broccoli stir-fry<br>2.5p<br>1c<br>1.5v</td>
     <td>?</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
-    <td>5p<br>1d<br>0fr<br>1v<br>1.5f<br>1c<br>0ss<br>0co</td>
-    <td>-2p<br>-2d<br>-1fr<br>-3v<br>+0.5f<br>0c<br>-1sd<br>-2co</td>
+    <td>5.5p<br>1d<br>0fr<br>2.5v<br>1.5f<br>2c<br>1sd<br>0co</td>
+    <td>-1.5.5p<br>-2d<br>-1fr<br>-1.5v<br>+0.5f<br>+1c<br>0sd<br>-2co</td>
   </tr>
   <tr valign="top" align="left">
     <td>S</td>
