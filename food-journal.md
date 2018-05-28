@@ -208,13 +208,13 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>S</td>
     <td>omelette<br>(2 eggs, mushrooms, lean ham, havarti cheese)<br>1p<br>0.5f<br>0.5d</td>
     <td>protein bar</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>beef & broccoli stir-fry<br>2.5p<br>1c<br>1.5v</td>
+    <td>turkey pepperette<br>0.5p<br><br>babybel cheese<br>0.5d</td>
+    <td>zuccini "spaghetti" and meat sauce<br>2p<br>2.5v<br></td>
+    <td>X</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
-    <td>1p<br>0.5d<br>0fr<br>0v<br>0.5f<br>0c<br>1sd<br>0co</td>
-    <td>-6p<br>-2.5d<br>-1fr<br>-4v<br>-0.5f<br>-1c<br>0sd<br>-2co</td>
+    <td>6p<br>1d<br>0fr<br>4v<br>0.5f<br>1c<br>1sd<br>0co</td>
+    <td>-1p<br>-2d<br>-1fr<br>0v<br>-0.5f<br>0c<br>0sd<br>-2co</td>
   </tr>
 </table>
 
