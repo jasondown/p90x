@@ -244,22 +244,22 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>heritage green salad<br>2v<br>1co</td>
     <td>protein bar<br>2p</td>
     <td>chicken sandwich<br>1p<br>0.5d<br>0.5c<br>1v<br>1co<br><br>turkey pepperete<br>0.5p<br><br>1 slice bbq chicken pizza<br>0.5p<br>0.5d<br>0.5v<br>0.5c</td>
-    <td>?</td>
+    <td>X</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>4p<br>2d<br>1fr<br>3.5v<br>0f<br>1c<br>1sd<br>2co</td>
     <td>-3p<br>-1d<br>0fr<br>-0.5v<br>-1f<br>0c<br>0sd<br>0co</td>
   </tr>
   <tr valign="top" align="left">
     <td>T</td>
-    <td>?</td>
+    <td>protein shake<br>(milk + protein powder)<br>2p<br>1d</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co<br></td>
-    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
-    <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
+    <td>2p<br>1d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-5p<br>-2d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
   </tr>
   <tr valign="top" align="left">
     <td>W</td>
