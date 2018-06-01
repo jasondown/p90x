@@ -287,14 +287,14 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
   <tr valign="top" align="left">
     <td>F</td>
     <td>cottage cheese<br>1d<br><br>strawberries<br>1fr</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>protein bar<br>2p</td>
+    <td>heritage salad<br>2v<br>1co</td>
+    <td>almonds<br>1sd</td>
     <td>?</td>
     <td>?</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
-    <td>0p<br>1d<br>1fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
-    <td>-7p<br>-2d<br>0fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
+    <td>2p<br>1d<br>1fr<br>2v<br>0f<br>0c<br>1sd<br>1co</td>
+    <td>-5p<br>-2d<br>0fr<br>-2v<br>-1f<br>-1c<br>0sd<br>-1co</td>
   </tr>
   <tr valign="top" align="left">
     <td>S</td>
