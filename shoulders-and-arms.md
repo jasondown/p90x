@@ -2,21 +2,21 @@
 
 |Exercise|Week 1|Week 2|Week 3|Week 9|Week 11|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|Alternating Shoulder Press|R1:9 W1:20 R2:9 W2:20|R1:8 W1:25 R2:9 W2:25|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|In & Out Bicep Curls|R1:14 W1:20 R2:9 W2:15|R1:16 W1:10 R2:16 W2:12|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Two-Arm Tricep Kickbacks|R1:14 W1:10 R2:12 W2:10|R1:8 W1:15 R2:12 W2:12|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Deep Swimmer's Press|R1:9 W1:15 R2:9 W2:12|R1:10 W1:15 R2:? W2:?|R1:9 W1:15 R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Full Supination Concentration Curls|R1:8 W1:15 R2:11 W2:12|R1:10 W1:15 R2:9 W2:15|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Chair Dips|R1:15k R2:15k|R1:20k R2:20k|R1:? R2:?|R1:? R2:?|R1:? R2:?|
-|Upright Rows|R1:15 W1:12 R2:10 W2:15|R1:10 W1:20 R2:9 W2:20|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Static Arm Curls|R1:12 W1:12 R2:16 W2:10|R1:16 W1:10 R2:16 W2:12|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Flip-Grip Twist Tricep Kickbacks|R1:10 W1:10 R2:10 W2:10|R1:7 W1:12 R2:7 W2:10|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Two-Angle Shoulder Flys|R1:16 W1:10 R2:16 W2:5|R1:16 W1:10 R2:16 W2:10|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Crouching Cohen Curls|R1:12 W1:10 R2:12 W2:12|R1:10 W1:15 R2:10 W2:15|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Lying-Down Tricep Extensions|R1:14 W1:10 R2:8 W2:12|R1:9 W1:12 R2:10 W2:12|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
+|Alternating Shoulder Press|R1:9 W1:20 R2:9 W2:20|R1:8 W1:25 R2:9 W2:25|R1:8 W1:30 R2:8 W2:30|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
+|In & Out Bicep Curls|R1:14 W1:20 R2:9 W2:15|R1:16 W1:10 R2:16 W2:12|R1:16 W1:15 R2:16 W2:15|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
+|Two-Arm Tricep Kickbacks|R1:14 W1:10 R2:12 W2:10|R1:8 W1:15 R2:12 W2:12|R1:15 W1:12 R2:10 W2:15|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
+|Deep Swimmer's Press|R1:9 W1:15 R2:9 W2:12|R1:10 W1:15 R2:9 W2:15|R1:8 W1:20 R2:9 W2:20|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
+|Full Supination Concentration Curls|R1:8 W1:15 R2:11 W2:12|R1:10 W1:15 R2:9 W2:15|R1:8 W1:20 R2:9 W2:15|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
+|Chair Dips|R1:15k R2:15k|R1:20k R2:20k|R1:23k R2:15|R1:? R2:?|R1:? R2:?|
+|Upright Rows|R1:15 W1:12 R2:10 W2:15|R1:10 W1:20 R2:9 W2:20|R1:8 W1:25 R2:10 W2:20|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
+|Static Arm Curls|R1:12 W1:12 R2:16 W2:10|R1:16 W1:10 R2:16 W2:12|R1:16 W1:12 R2:16 W2:15|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
+|Flip-Grip Twist Tricep Kickbacks|R1:10 W1:10 R2:10 W2:10|R1:7 W1:12 R2:7 W2:10|R1:10 W1:10 R2:12 W2:12|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
+|Two-Angle Shoulder Flys|R1:16 W1:10 R2:16 W2:5|R1:16 W1:10 R2:16 W2:10|R1:16 W1:12 R2:16 W2:10|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
+|Crouching Cohen Curls|R1:12 W1:10 R2:12 W2:12|R1:10 W1:15 R2:10 W2:15|R1:8 W1:20 R2:10 W2:15|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
+|Lying-Down Tricep Extensions|R1:14 W1:10 R2:8 W2:12|R1:9 W1:12 R2:10 W2:12|R1:7 W1:20 R2:10 W2:15|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
 |Bonus Round|---|---|---|---|---|
-|In & Out Straight-Arm Shoulder Flys|R1:16 W1:5 R2:16 W2:5|R1:16 W1:8 R2:16 W2:8|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Congdon Curls|R1:12 W1:10 R2:8 W2:15|R1:8 W1:15 R2:9 W2:15|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Side Tri-Rises|R1:6/6 R2:7/7|R1:10/10 R2:10/10|R1:? R2:?|R1:? R2:?|R1:? R2:?|
+|In & Out Straight-Arm Shoulder Flys|R1:16 W1:5 R2:16 W2:5|R1:16 W1:8 R2:16 W2:8|R1:16 W1:10 R2:16 W2:8|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
+|Congdon Curls|R1:12 W1:10 R2:8 W2:15|R1:8 W1:15 R2:9 W2:15|R1:7 W1:20 R2:9 W2:15|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
+|Side Tri-Rises|R1:6/6 R2:7/7|R1:10/10 R2:10/10|R1:14/14 R2:14/14|R1:? R2:?|R1:? R2:?|
 
 *R1=Reps round 1, R2=Reps round 2, W1=Weight (lbs) round 1, W2=Weight (lbs) round 2, a=assisted, k=knees*
