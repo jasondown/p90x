@@ -41,7 +41,7 @@
   </tr>
   <tr valign="top" align="left">
     <td>T</td>
-    <td>protein shake<br>(milk + protein powder)<br>2p<br>1.5d</td>
+    <td>protein shake<br>(milk, protein powder)<br>2p<br>1.5d</td>
     <td>almonds<br>1sd</td>
     <td>mixed veggies<br>2v<br><br>hard-boiled egg<br>0.5p<br>0.5f<br><br>turkey pepperette<br>0.5p<br><br>cheese string<br>0.5d</td>
     <td>X</td>
@@ -58,7 +58,7 @@
     <td>lean ham wrap<br>0.5c<br>1p<br>0.5v<br>1co<br><br>turkey pepperette<br>0.5p<br><br>cheese string<br>0.5d</td>
     <td>mixed veggies<br>2v</td>
     <td>Salmon<br>1.5p<br><br>1/2 sweet potato<br>0.5c<br><br>cheese string<br>0.5d</td>
-    <td>protein shake<br>(milk + protein powder + banana<br>2p<br>1fr<br>1d</td>
+    <td>protein shake<br>(milk, protein powder, banana)<br>2p<br>1fr<br>1d</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>6p<br>3d<br>1fr<br>2.5v<br>1f<br>1c<br>1sd<br>1co</td>
     <td>-1p<br>0d<br>0fr<br>-1.5v<br>0f<br>0c<br>0sd<br>-1co</td>
@@ -94,7 +94,7 @@
     <td>tuna salad<br>2p<br>1f<br><br>english muffin<br>0.5c<br><br>Chopped salad<br>2v<br>1co</td>
     <td>roasted chicken breast<br>0.5p<br><br>small slice Hawaaiian pizza<br>0.5c</td>
     <td>Omelette<br>(eggs, mozzarella, mixed sauteed veggies)<br>1.5p<br>1d<br>1v<br>1f</td>
-    <td>protein shake<br>(milk + protein powder)<br>2p<br>1d</td>
+    <td>protein shake<br>(milk, protein powder)<br>2p<br>1d</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>5.5p<br>3d<br>1fr<br>4.5v<br>2f<br>1c<br>1sd<br>2co</td>
     <td>-1.5p<br>0d<br>0fr<br>+0.5v<br>+1f<br>0c<br>0sd<br>0co</td>
@@ -134,7 +134,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
   </tr>
   <tr valign="top" align="left">
     <td>M</td>
-    <td>protein shake<br>(milk + protein powder + banana)<br>2p<br>1fr<br>1d</td>
+    <td>protein shake<br>(milk, protein powder, banana)<br>2p<br>1fr<br>1d</td>
     <td>hard-boiled egg<br>0.5p<br>0.5f</td>
     <td>tuna salad<br>2p<br>1f<br><br>english muffin<br>0.5c</td>
     <td>X</td>
@@ -146,12 +146,12 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
   </tr>
   <tr valign="top" align="left">
     <td>T</td>
-    <td>1/2 protein shake<br>(milk + protein powder)<br>0.5p<br>0.5d<br><br>blackberries<br>0.5fr</td>
+    <td>1/2 protein shake<br>(milk, protein powder)<br>0.5p<br>0.5d<br><br>blackberries<br>0.5fr</td>
     <td>protein bar<br>2p</td>
     <td>heritage green salad<br>2v<br>1co<br>1/2fr</td>
     <td>almonds<br>1sd<br><br>4 slices lean ham & chicken<br>0.5p</td>
     <td>spinach and feta/goat cheese stuffed chicken<br>2p<br>0.5v<br>1d<br><br>broccoli<br>1.5v<br><br>1/2 sweet potato<br>0.5c</td>
-    <td>protein shake<br>(milk + protein powder)<br>2p<br>1d</td>
+    <td>protein shake<br>(milk, protein powder)<br>2p<br>1d</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co<br></td>
     <td>7p<br>2d<br>1fr<br>4v<br>0f<br>0.5cc<br>1sd<br>1co</td>
     <td>0p<br>-1d<br>0fr<br>0v<br>-1f<br>-0.5c<br>0sd<br>-1co</td>
@@ -163,7 +163,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>tuna salad<br>2p<br>1f<br><br>english muffin<br>0.5c<br><br>butternut squash soup<br>0.5v</td>
     <td>unsalted sunflower seeds<br>1ss</td>
     <td>cold cut plate<br>1p<br><br>small pasta salad<br>0.5c<br><br>salad<br>1v<br>1co<br><br>fish lettuce wraps<br>1p<br>2v</td>
-    <td>protein shake<br>(milk + protein powder)<br>2p<br>1d</td>
+    <td>protein shake<br>(milk, protein powder)<br>2p<br>1d</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>7p<br>2d<br>1fr<br>3.5v<br>1f<br>1c<br>1.5sd<br>1co</td>
     <td>0p<br>-1d<br>0fr<br>-0.5v<br>0f<br>0c<br>+0.5sd<br>-1co</td>
@@ -174,7 +174,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>quinoa nut bar<br>1sd</td>
     <td>butternut squash soup<br>0.5v<br><br>salad<br>(cottage cheese, cucumber, tomato, sun-dried tomato & oregano dressing)<br>1d<br>1.5v<br>1co</td>
     <td>beef jerkey<br>0.5p<br><br>turkey pepperette<br>0.5p</td>
-    <td>protein shake<br>(milk + protein powder + banana<br>2p<br>1fr<br>1d</td>
+    <td>protein shake<br>(milk, protein powder, banana<br>2p<br>1fr<br>1d</td>
     <td>X</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>5p<br>2.5d<br>1fr<br>3v<br>1f<br>0c<br>1sd<br>1co</td>
@@ -199,7 +199,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>omelette<br>(2 eggs, spinach, mushrooms, onion, goat cheese)<br>1p<br>1v<br>1d<br>0.5f</td>
     <td>light beer<br>1c</td>
     <td>beef & broccoli stir-fry<br>2.5p<br>1c<br>1.5v</td>
-    <td>protein shake<br>(milk + protein powder)<br>2p<br>1d</td>
+    <td>protein shake<br>(milk, protein powder)<br>2p<br>1d</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>7.5p<br>2d<br>0fr<br>2.5v<br>1.5f<br>2c<br>1sd<br>0co</td>
     <td>+0.5.5p<br>-1d<br>-1fr<br>-1.5v<br>+0.5f<br>+1c<br>0sd<br>-2co</td>
@@ -251,12 +251,12 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
   </tr>
   <tr valign="top" align="left">
     <td>T</td>
-    <td>protein shake<br>(milk + protein powder)<br>2p<br>1d</td>
+    <td>protein shake<br>(milk, protein powder)<br>2p<br>1d</td>
     <td>unsalted sunflower seeds<br>1sd</td>
     <td>falafel wrap<br>1p<br>1v<br>1c<br>1co</td>
     <td>protein bar<br>2p</td>
     <td>mediterranean chicken<br>(goat cheese, chick peas, spinach, tomatoes)<br>3p<br>2v<br>1d<br>1f<br>1co</td>
-    <td>protein shake<br>(milk + 1/2 protein powder)<br>1p<br>1d</td>
+    <td>protein shake<br>(milk, 1/2 protein powder)<br>1p<br>1d</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co<br></td>
     <td>9p<br>3d<br>0fr<br>3v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>+2p<br>0d<br>-1fr<br>-1v<br>0f<br>0c<br>0sd<br>0co</td>
@@ -273,17 +273,16 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>5p<br>1d<br>0fr<br>3v<br>1f<br>1c<br>1sd<br>1co</td>
     <td>-2p<br>-2d<br>-1fr<br>-1v<br>0f<br>0c<br>0sd<br>-1co</td>
   </tr>
-  <tr valign="top" align="left">
-    <td>T</td>
+  <tr valign="top" align="left">/
     <td>cottage cheese<br>1d</td>
     <td>protein bar<br>2p</td>
     <td>grilled veggie and quinoa wrap<br>1v<br>1c<br>1co</td>
     <td>almonds<br>1sd</td>
-    <td>?</td>
-    <td>?</td>
+    <td>omelette<br>(3 eggs, lean ham, mushrooms, scallions, fresh dill, jalapeno havarti)<br>2p<br>0.5d<br>0.5v<br>1f</td>
+    <td>protein shake<br>(milk, protein powder, banana)<br>2p<br>1fr<br>1d</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
-    <td>2p<br>1d<br>0fr<br>1v<br>0f<br>1c<br>1sd<br>1co</td>
-    <td>-5p<br>-2d<br>-1fr<br>-3v<br>-1f<br>0c<br>0sd<br>-1co</td>
+    <td>6p<br>3d<br>1fr<br>1.5v<br>1f<br>1c<br>1sd<br>1co</td>
+    <td>-1p<br>0d<br>0fr<br>-1.5v<br>0f<br>0c<br>0sd<br>-1co</td>
   </tr>
   <tr valign="top" align="left">
     <td>F</td>
