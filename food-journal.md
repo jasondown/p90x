@@ -291,23 +291,23 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>protein bar<br>2p</td>
     <td>heritage salad<br>2v<br>1co</td>
     <td>almonds<br>1sd</td>
-    <td>chicken<br>2p<br>1co<br><br>roasted red peppers<br>1v<br>asparagus<br>1v<br><br>protein bar<br>2p</td>
-    <td>?</td>
+    <td>chicken<br>2p<br>1co<br><br>roasted red peppers<br>1v<br>asparagus<br>1v</td>
+    <td>protein bar<br>2p</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>6p<br>1d<br>1fr<br>4v<br>0f<br>0c<br>1sd<br>2co</td>
     <td>-1p<br>-2d<br>0fr<br>0v<br>-1f<br>-1c<br>0sd<br>0co</td>
   </tr>
   <tr valign="top" align="left">
     <td>S</td>
-    <td>?</td>
+    <td>smooth<br>(mixed fruit, protein powder)<br>2fr<br>2p</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
-    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
-    <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
+    <td>2p<br>0d<br>2fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-5p<br>-3d<br>+1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
   </tr>
   <tr valign="top" align="left">
     <td>S</td>
