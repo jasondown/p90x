@@ -300,14 +300,14 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
   <tr valign="top" align="left">
     <td>S</td>
     <td>smooth<br>(mixed fruit, protein powder)<br>2fr<br>2p</td>
-    <td>?</td>
+    <td>X</td>
     <td>6" tuna salad sub<br>2p<br>1d<br>1.5v<br>1f<br>1c</td>
-    <td>?</td>
-    <td>?</td>
+    <td>protein bar<br>1sd</td>
+    <td>salad<br>2.5v<br>1co</td>
     <td>?</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
-    <td>4p<br>1d<br>2fr<br>1.5v<br>1f<br>1c<br>0ss<br>0co</td>
-    <td>-3p<br>-2d<br>+1fr<br>-2.5v<br>0f<br>0c<br>-1sd<br>-2co</td>
+    <td>4p<br>1d<br>2fr<br>4v<br>1f<br>1c<br>1sd<br>1co</td>
+    <td>-3p<br>-2d<br>+1fr<br>0v<br>0f<br>0c<br>0sd<br>-1co</td>
   </tr>
   <tr valign="top" align="left">
     <td>S</td>
