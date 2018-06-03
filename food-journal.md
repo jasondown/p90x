@@ -291,8 +291,8 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>protein bar<br>2p</td>
     <td>heritage salad<br>2v<br>1co</td>
     <td>almonds<br>1sd</td>
-    <td>chicken<br>2p<br>1co<br><br>roasted red peppers<br>1v<br>asparagus<br>1v</td>
-    <td>protein bar<br>2p</td>
+    <td>chicken<br>2p<br>1co<br><br>roasted red peppers<br>1v<br>asparagus<br>1v<br><br>protein bar<br>2p</td>
+    <td></td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
     <td>6p<br>1d<br>1fr<br>4v<br>0f<br>0c<br>1sd<br>2co</td>
     <td>-1p<br>-2d<br>0fr<br>0v<br>-1f<br>-1c<br>0sd<br>0co</td>
@@ -304,22 +304,22 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>6" tuna salad sub<br>2p<br>1d<br>1.5v<br>1f<br>1c</td>
     <td>protein bar<br>1sd</td>
     <td>salad<br>2.5v<br>1co</td>
-    <td>?</td>
+    <td>protein shake<br>(milk, protein powder)<br>2p<br>1d</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
-    <td>6p<br>1d<br>2fr<br>4v<br>1f<br>1c<br>1sd<br>1co</td>
-    <td>-1p<br>-2d<br>+1fr<br>0v<br>0f<br>0c<br>0sd<br>-1co</td>
+    <td>8p<br>2d<br>2fr<br>4v<br>1f<br>1c<br>1sd<br>1co</td>
+    <td>+1p<br>-1d<br>+1fr<br>0v<br>0f<br>0c<br>0sd<br>-1co</td>
   </tr>
   <tr valign="top" align="left">
     <td>S</td>
-    <td>?</td>
+    <td>omelette<br>2p<br>1d<br>1f<br>0.5v</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
-    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
-    <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
+    <td>2p<br>1d<br>0fr<br>0.5v<br>1f<br>0c<br>0ss<br>0co</td>
+    <td>-5p<br>-2d<br>-1fr<br>-3.5v<br>0f<br>-1c<br>-1sd<br>-2co</td>
   </tr>
 </table>
 
