@@ -28,3 +28,9 @@ Tracking P90X progress via workouts and food journal.
 
 &ast;*Reps/Weight not tracked*
 
+#### Week 4 (Rest Week 1)
+|Mon|Tue|Wed|Thu|Fri|Sat|Sun|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Yoga X\*|Core Synergistics\*|Kenpo X\*|Stretch X\*|Core Synergistics\*|Yoga X\*|Rest or Stretch X\*|
+
+&ast;*Reps/Weight not tracked*
