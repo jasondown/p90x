@@ -344,15 +344,15 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
   </tr>
   <tr valign="top" align="left">
     <td>M</td>
-    <td>?</td>
+    <td>protein shake<br>(milk, protein powder, banana)<br>2p<br>1fr<br>1d</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
-    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
-    <td>-7p<br>-3d<br>-1fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
+    <td>2p<br>1d<br>1fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-5p<br>-2d<br>0fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
   </tr>
   <tr valign="top" align="left">
     <td>T</td>
