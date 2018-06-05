@@ -345,14 +345,14 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
   <tr valign="top" align="left">
     <td>M</td>
     <td>protein shake<br>(milk, protein powder, banana)<br>2p<br>1fr<br>1d</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>protein bar<br>1sd</td>
+    <td>tuna salad<br>1p<br>1f<br>0.5v<br><br>english muffin<br>0.5c</td>
+    <td>X</td>
+    <td>hamburger w/ bun<br>2p<br>0.5c<br>0.5v<br>1co<br><br>broccoli<br>2v</td>
     <td>?</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
-    <td>2p<br>1d<br>1fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
-    <td>-5p<br>-2d<br>0fr<br>-4v<br>-1f<br>-1c<br>-1sd<br>-2co</td>
+    <td>5p<br>1d<br>1fr<br>3v<br>1f<br>1c<br>1sd<br>1co</td>
+    <td>-2p<br>-2d<br>0fr<br>-1v<br>0f<br>0c<br>0sd<br>-1co</td>
   </tr>
   <tr valign="top" align="left">
     <td>T</td>
