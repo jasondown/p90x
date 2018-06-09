@@ -397,10 +397,10 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>grilled veggie, quinoa and chick pea wrap<br><br>0.5p<br>1v<br>1c<br>1co</td>
     <td>protein bar<br>1sd</td>
     <td>steak<br>2p<br>1f<br><br>1/2 sweet potato<br>0.5c<br><br>spinach<br>2v</td>
-    <td>?</td>
+    <td>protein shake<br>(milk, protein powder, banana)<br>2p<br>1fr<br>1d</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
-    <td>4.5p<br>1d<br>0fr<br>4v<br>2f<br>1.5c<br>1sd<br>1co</td>
-    <td>-2.5p<br>-2d<br>-1fr<br>0v<br>+1f<br>0.5c<br>0sd<br>-1co</td>
+    <td>6.5p<br>2d<br>1fr<br>4v<br>2f<br>1.5c<br>1sd<br>1co</td>
+    <td>-0.5p<br>-1d<br>0fr<br>0v<br>+1f<br>0.5c<br>0sd<br>-1co</td>
   </tr>
   <tr valign="top" align="left">
     <td>S</td>
