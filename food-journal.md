@@ -408,11 +408,11 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>X</td>
     <td>kale salad w/ fruit<br>2v<br>1f<br>1co</td>
     <td>protein bar<br>1sd</td>
-    <td>?</td>
-    <td>?</td>
+    <td>steak and shrimp fettucicne<br>2p<br>1.5c<br>1f<br>1co</td>
+    <td>X</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
-    <td>2p<br>1d<br>1fr<br>2v<br>1f<br>0c<br>1sd<br>1co</td>
-    <td>-5p<br>-2d<br>0fr<br>-1v<br>0f<br>-1c<br>0sd<br>-1co</td>
+    <td>4p<br>1d<br>1fr<br>3v<br>2f<br>1.5c<br>1sd<br>2co</td>
+    <td>-3p<br>-2d<br>0fr<br>-1v<br>+1f<br>-0.5c<br>0sd<br>0co</td>
   </tr>
   <tr valign="top" align="left">
     <td>S</td>
