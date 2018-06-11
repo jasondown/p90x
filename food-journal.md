@@ -456,12 +456,12 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>cottage cheese<br>1d<br><br>strawberries<br>0.5fr</td>
     <td>X</td>
     <td>1/2 BLT<br>0.5c<br>1v<br>0.5f<br>0.5p<br><br>soup (not sure what kind)<br>0.5c<br>0.5v<br><br>salad<br>1v<br>1co<br>0.5d</td>
-    <td>?</td>
+    <td>protein bar<br>1sd</td>
     <td>?</td>
     <td>?</td>
     <td>6p<br>2d<br>0.5fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co</td>
-    <td>0.5p<br>1.5d<br>0.5fr<br>1.5v<br>0.5f<br>1c<br>0ss<br>1co</td>
-    <td>-5.5p<br>-0.5d<br>-0.5fr<br>-1.5v<br>-0.5f<br>-2c<br>-1sd<br>-0.5co</td>
+    <td>0.5p<br>1.5d<br>0.5fr<br>1.5v<br>0.5f<br>1c<br>1sd<br>1co</td>
+    <td>-5.5p<br>-0.5d<br>-0.5fr<br>-1.5v<br>-0.5f<br>-2c<br>0sd<br>-0.5co</td>
   </tr>
   <tr valign="top" align="left">
     <td>T</td>
