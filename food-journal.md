@@ -458,22 +458,22 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>1/2 BLT<br>0.5c<br>0.5v<br>0.5f<br>0.5p<br><br>soup (not sure what kind)<br>0.5c<br>0.5v<br><br>salad<br>1v<br>1co<br>0.5d</td>
     <td>1/2 cup beans in tomato sauce<br>1c</td>
     <td>chicken breast<br>2p<br><br>salad<br>1v<br>0.5co<br><br>asparagus<br>1v</td>
-    <td>?</td>
+    <td>protein shake<br>(milk, protein powder)<br>2p<br>1</td>
     <td>6p<br>2d<br>0.5fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co</td>
-    <td>2.5p<br>1.5d<br>0.5fr<br>4v<br>0.5f<br>2c<br>1sd<br>1.5co</td>
-    <td>-3.5p<br>-0.5d<br>-0.5fr<br>+1v<br>-0.5f<br>-1c<br>0sd<br>0co</td>
+    <td>4.5p<br>2.5d<br>0.5fr<br>4v<br>0.5f<br>2c<br>1sd<br>1.5co</td>
+    <td>-1.5p<br>+0.5d<br>-0.5fr<br>+1v<br>-0.5f<br>-1c<br>0sd<br>0co</td>
   </tr>
   <tr valign="top" align="left">
     <td>T</td>
-    <td>?</td>
+    <td>granola, yogurt, bluberries<br>1d<br>0.5fr<br>1c</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co</td>
-    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
-    <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
+    <td>0p<br>1d<br>0.5fr<br>0v<br>0f<br>1c<br>0ss<br>0co</td>
+    <td>-6p<br>-2d<br>-0.5fr<br>-3v<br>-1f<br>-2c<br>-1sd<br>-1.5co</td>
   </tr>
   <tr valign="top" align="left">
     <td>W</td>
