@@ -468,12 +468,12 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>granola, yogurt, bluberries<br>1d<br>0.5fr<br>1c</td>
     <td>protein bar<br>2p</td>
     <td>falafel wrap<br>1p<br>1v<br>1c<br>1co</td>
-    <td>?</td>
+    <td>almonds<br>1sd</td>
     <td>?</td>
     <td>?</td>
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co</td>
-    <td>3p<br>1d<br>0.5fr<br>1v<br>0f<br>2c<br>0ss<br>1co</td>
-    <td>-3p<br>-2d<br>-0.5fr<br>-2v<br>-1f<br>-1c<br>-1sd<br>-0.5co</td>
+    <td>3p<br>1d<br>0.5fr<br>1v<br>0f<br>2c<br>1sd<br>1co</td>
+    <td>-3p<br>-2d<br>-0.5fr<br>-2v<br>-1f<br>-1c<br>0sd<br>-0.5co</td>
   </tr>
   <tr valign="top" align="left">
     <td>W</td>
