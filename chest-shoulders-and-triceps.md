@@ -2,7 +2,7 @@
 
 |Exercise|Week 5|Week 6|Week 7|
 |:---:|:---:|:---:|:---:|
-|Slow-Motion 3-in1 Push-Ups|R1:? R2:?|R1:? R2:?|R1:? R2:?|
+|Slow-Motion 3-in-1 Push-Ups|R1:? R2:?|R1:? R2:?|R1:? R2:?|
 |In & Out Shoulder Flys|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
 |Chair Dips|R1:? R2:?|R1:? R2:?|R1:? R2:?|
 |Plange Push-Ups|R1:? R2:?|R1:? R2:?|R1:? R2:?|
