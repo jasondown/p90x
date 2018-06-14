@@ -480,7 +480,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>cottage cheese<br>1d</td>
     <td>protein bar<br>1sd</td>
     <td>teriyaki chicken bowl<br>2p<br>1.5c<br>0.5v<br>1co</td>
-    <td>turkey pepperette<br>0.5p<br><br>english muffin w/ peanut butter<br>0.5c<br>0.5co</td>
+    <td>turkey pepperette<br>0.5p<br><br>english muffin w/ natural peanut butter<br>0.5c<br>0.5co</td>
     <td>swiss steak role<br>2p<br>1d<br>1v<br><br>half baked potato<br>0.5c</td>
     <td>?</td>
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
