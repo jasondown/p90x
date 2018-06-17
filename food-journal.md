@@ -526,14 +526,14 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
   <tr valign="top" align="left">
     <td>S</td>
     <td>milk<br>1d<br><br>omelette<br>2p<br>1f<br>0.5v<br>0.5d<br><br>strawberries<br>1fr</td>
-    <td>?</td>
+    <td>english muffin<br>0.5c<br><br>natural peanut butter<br>1co</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
-    <td>2p<br>1.5d<br>1fr<br>0.5v<br>1f<br>0c<br>0sd<br>0co</td>
-    <td>-4p<br>-0.5d<br>0fr<br>-2.5v<br>0f<br>-3c<br>-1sd<br>-1.5co</td>
+    <td>2p<br>1.5d<br>1fr<br>0.5v<br>1f<br>0.5c<br>0sd<br>1co</td>
+    <td>-4p<br>-0.5d<br>0fr<br>-2.5v<br>0f<br>-2.5c<br>-1sd<br>-0.5co</td>
   </tr>
 </table>
 
