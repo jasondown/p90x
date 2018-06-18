@@ -528,12 +528,12 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>milk<br>1d<br><br>omelette<br>2p<br>1f<br>0.5v<br>0.5d<br><br>strawberries<br>1fr</td>
     <td>english muffin<br>0.5c<br><br>natural peanut butter<br>1co</td>
     <td>X</td>
-    <td>X</td>
+    <td>sea salt & lime roasted chickpeas<br>1sd</td>
     <td>steak<br><br>2p<br>salad<br>1.5v<br>1co<br><br>mixed veggies<br>1v<br><br>beer<br>1.5c</td>
     <td>X</td>
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
-    <td>4p<br>1.5d<br>1fr<br>3v<br>1f<br>2c<br>0sd<br>2co</td>
-    <td>-2p<br>-0.5d<br>0fr<br>0v<br>0f<br>-1c<br>-1sd<br>+0.5co</td>
+    <td>4p<br>1.5d<br>1fr<br>3v<br>1f<br>2c<br>1sd<br>2co</td>
+    <td>-2p<br>-0.5d<br>0fr<br>0v<br>0f<br>-1c<br>0sd<br>+0.5co</td>
   </tr>
 </table>
 
