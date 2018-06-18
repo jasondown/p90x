@@ -560,13 +560,13 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>M</td>
     <td>cottage cheese<br>0.5d<br><br>banana<br>1fr</td>
     <td>protein bar<br>1sd</td>
-    <td>?</td>
+    <td>heritage green salad<br>2v<br>1co<br><br>turkey sandwich<br>1p<br>1c<br>0.5d<br>0.5v<br>1f</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co</td>
-    <td>0p<br>0.5d<br>1fr<br>0v<br>0f<br>0c<br>1sd<br>0co</td>
-    <td>-6p<br>-1.5d<br>0fr<br>-3v<br>-1f<br>-3c<br>0sd<br>-1.5co</td>
+    <td>1p<br>1d<br>1fr<br>2.5v<br>1f<br>1c<br>1sd<br>1co</td>
+    <td>-5p<br>-1d<br>0fr<br>-0.5v<br>0f<br>-2c<br>0sd<br>-0.5co</td>
   </tr>
   <tr valign="top" align="left">
     <td>T</td>
