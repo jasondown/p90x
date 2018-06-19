@@ -2,30 +2,30 @@
 
 |Exercise|Week 5|Week 6|Week 7|
 |:---:|:---:|:---:|:---:|
-|Slow-Motion 3-in-1 Push-Ups|R1:12 R2:?|R1:? R2:?|R1:? R2:?|
-|In & Out Shoulder Flys|R1:16 W1:8 R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Chair Dips|R1:25 R2:?|R1:? R2:?|R1:? R2:?|
-|Plange Push-Ups|R1:7 R2:?|R1:? R2:?|R1:? R2:?|
-|Pike Presses|R1:10 R2:?|R1:? R2:?|R1:? R2:?|
-|Side Tri-Rises|R1:12/12 R2:?|R1:? R2:?|R1:? R2:?|
-|Floor Flys|R1:16 R2:?|R1:? R2:?|R1:? R2:?|
-|Scarecrows|R1:12 W1:8 R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Overhead Tricep Extensions|R1:12 W1:8 R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Two-Twitch Speed Push-Ups|R1:11 R2:?|R1:? R2:?|R1:? R2:?|
-|Y-Presses|R1:12 W1:15 R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Lying Tricep Extensions|R1:9 W1:15 R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Side-To-Side Push-Ups|R1:10 R2:?|R1:? R2:?|R1:? R2:?|
-|Pour Flys|R1:12 W1:8 R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Side-Leaning Tricep Extensions|R1:6 W1:15 R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|One-Arm Push-Ups|R1:12k R2:?|R1:? R2:?|R1:? R2:?|
-|Weighted Circles|R1:40 W1:8 R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Throw The Bomb|R1:15 W1:8 R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Clap or Plyo Push-Ups|R1:9c R2:?|R1:? R2:?|R1:? R2:?|
-|Slo-Mo Throws|R1:9 W1:8 R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Front-To-Back Tricep Extensions|R1:12 W1:10 R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|One-Arm Balance Push-Ups|R1:6 R2:?|R1:? R2:?|R1:? R2:?|
-|Fly-Row Presses|R1:10 W1:10 R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Dumbbell Cross-Body Blows|R111:? W1:15 R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
+|Slow-Motion 3-in-1 Push-Ups|R1:12 R2:?|R1:12+3 R2:?|R1:? R2:?|
+|In & Out Shoulder Flys|R1:16 W1:8 R2:? W2:?|R1:16 W1:8 R2:? W2:?|R1:? W1:? R2:? W2:?|
+|Chair Dips|R1:25 R2:?|R1:25 R2:?|R1:? R2:?|
+|Plange Push-Ups|R1:7 R2:?|R1:4+4k R2:?|R1:? R2:?|
+|Pike Presses|R1:10 R2:?|R1:9 R2:?|R1:? R2:?|
+|Side Tri-Rises|R1:12/12 R2:?|R1:13/13 R2:?|R1:? R2:?|
+|Floor Flys|R1:16 R2:?|R1:16 R2:?|R1:? R2:?|
+|Scarecrows|R1:12 W1:8 R2:? W2:?|R1:12 W1:10 R2:? W2:?|R1:? W1:? R2:? W2:?|
+|Overhead Tricep Extensions|R1:12 W1:8 R2:? W2:?|R1:8 W1:15 R2:? W2:?|R1:? W1:? R2:? W2:?|
+|Two-Twitch Speed Push-Ups|R1:11 R2:?|R1:12 R2:?|R1:? R2:?|
+|Y-Presses|R1:12 W1:15 R2:? W2:?|R1:9 W1:20 R2:? W2:?|R1:? W1:? R2:? W2:?|
+|Lying Tricep Extensions|R1:9 W1:15 R2:? W2:?|R1:5 W1:20 R2:? W2:?|R1:? W1:? R2:? W2:?|
+|Side-To-Side Push-Ups|R1:10 R2:?|R1:11 R2:?|R1:? R2:?|
+|Pour Flys|R1:12 W1:8 R2:? W2:?|R1:10 W1:10 R2:? W2:?|R1:? W1:? R2:? W2:?|
+|Side-Leaning Tricep Extensions|R1:6 W1:15 R2:? W2:?|R1:7 W1:15 R2:? W2:?|R1:? W1:? R2:? W2:?|
+|One-Arm Push-Ups|R1:12k R2:?|R1:8k R2:?|R1:? R2:?|
+|Weighted Circles|R1:40 W1:8 R2:? W2:?|R1:15/25 W1:12/8 R2:? W2:?|R1:? W1:? R2:? W2:?|
+|Throw The Bomb|R1:15 W1:8 R2:? W2:?|R1:12 W1:12 R2:? W2:?|R1:? W1:? R2:? W2:?|
+|Clap or Plyo Push-Ups|R1:9c R2:?|R1:10 R2:?|R1:? R2:?|
+|Slo-Mo Throws|R1:9 W1:8 R2:? W2:?|R1:8 W1:10 R2:? W2:?|R1:? W1:? R2:? W2:?|
+|Front-To-Back Tricep Extensions|R1:12 W1:10 R2:? W2:?|R1:12 W1:12 R2:? W2:?|R1:? W1:? R2:? W2:?|
+|One-Arm Balance Push-Ups|R1:6 R2:?|R1:7 R2:?|R1:? R2:?|
+|Fly-Row Presses|R1:10 W1:10 R2:? W2:?|R1:9 W1:12 R2:? W2:?|R1:? W1:? R2:? W2:?|
+|Dumbbell Cross-Body Blows|R111:? W1:15 R2:? W2:?|R1:10 W1:20 R2:? W2:?|R1:? W1:? R2:? W2:?|
 
 *R1=Reps round 1, R2=Reps round 2, W1=Weight (lbs) round 1, W2=Weight (lbs) round 2, a=assisted, k=knees*
 
