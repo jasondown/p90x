@@ -563,10 +563,10 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>heritage green salad<br>2v<br>1co<br><br>turkey sandwich<br>1p<br>1c<br>0.5d<br>0.5v<br>1f</td>
     <td>unsalted sunflower seeds<br>1sd</td>
     <td>tuna salad<br>1.5p<br>1f<br><br>english muffin<br>0.5c<br><br>rice w/ chicken<br>1c<br>0.5p</td>
-    <td>?</td>
+    <td>1/2 protein shake<br>(milk, 1/2 protein powder)<br>1p<br>1d
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co</td>
-    <td>5p<br>1d<br>1fr<br>2.5v<br>2f<br>2.5c<br>1sd<br>1co</td>
-    <td>-1p<br>-1d<br>0fr<br>-0.5v<br>+1f<br>-0.5c<br>0sd<br>-0.5co</td>
+    <td>6p<br>1d<br>1fr<br>2.5v<br>2f<br>2.5c<br>1sd<br>1co</td>
+    <td>0p<br>0d<br>0fr<br>-0.5v<br>+1f<br>-0.5c<br>0sd<br>-0.5co</td>
   </tr>
   <tr valign="top" align="left">
     <td>T</td>
