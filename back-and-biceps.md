@@ -2,58 +2,58 @@
 
 |Exercise|Week 5|Week 6|Week 7|
 |:---:|:---:|:---:|:---:|
-|Wide Front Pull-Ups|R1:12 R2:?|R1:? R2:?|R1:? R2:?|
-|Lawnmowers|R1:10 W1:30 R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Twenty-Ones|R1:7/7/7 W1:20/15/15 R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|One-Arm Cross-Body Curls|R1:8 W1:15 R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Switch-Grip Pull-Ups|R1:130x8 R2:|R1:? R2:?|R1:? R2:?|
-|Elbows-Out Lawnmowers|R1:10 W1:30 R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Standing Bicep Curls|R1:4/4 W1:20/15 R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|One-Arm Concentration Curls|R1:8 W1:15 R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Corn Cob Pull-Ups|R1:2a R2:?|R1:? R2:?|R1:? R2:?|
-|Reverse Grip Bent-Over Rows|R1:12 W1:20 R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Open-Arm Curls|R1:8 W1:20 R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Static Curls|R1:16 W1:12 R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Towel Pull-Ups|R1:130x7 R2:?|R1:? R2:?|R1:? R2:?|
-|Congdon Locomotives|R1:40 W1:15 R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Crouching Cohen Curls|R1:8 W1:15 R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|One-Arm Corkscrew Curls|R1:9 W1:15 R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Chin-Ups|R1:130x6 R2:?|R1:? R2:?|R1:? R2:?|
-|Seated Bent-Over Back Flys|R1:12 W1:20 R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Curl-Up/Hammer-Downs|R1:9 W1:15 R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Hammer Curls|R1:7 W1:20 R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Max Rep Pull-Ups|R1:130x4 R2:?|R1:? R2:?|R1:? R2:?|
-|Superman|R1:10x5 R2:?|R1:? R2:?|R1:? R2:?|
-|In-Out Hammer Curls|R1:6 W1:15 R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Strip-Set Curls|R1:6/5/8/8 W1:20/15/12/10 R2:? W2:?|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
+|Wide Front Pull-Ups|R:12|R:?|R:?|
+|Lawnmowers|R:10 W:30|R:? W:?|R:? W:?|
+|Twenty-Ones|R:7/7/7 W:20/15/15|R:? W:?|R:? W:?|
+|One-Arm Cross-Body Curls|R:8 W:15|R:? W:?|R:? W:?|
+|Switch-Grip Pull-Ups|R:130x8|R:?|R:?|
+|Elbows-Out Lawnmowers|R:10 W:30|R:? W:?|R:? W:?|
+|Standing Bicep Curls|R:4/4 W:20/15|R:? W:?|R:? W:?|
+|One-Arm Concentration Curls|R:8 W:15|R:? W:?|R:? W:?|
+|Corn Cob Pull-Ups|R:2a|R:?|R:?|
+|Reverse Grip Bent-Over Rows|R:12 W:20|R:? W:?|R:? W:?|
+|Open-Arm Curls|R:8 W:20|R:? W:?|R:? W:?|
+|Static Curls|R:16 W:12|R:? W:?|R:? W:?|
+|Towel Pull-Ups|R:130x7|R:?|R:?|
+|Congdon Locomotives|R:40 W:15|R:? W:?|R:? W:?|
+|Crouching Cohen Curls|R:8 W:15|R:? W:?|R:? W:?|
+|One-Arm Corkscrew Curls|R:9 W:15|R:? W:?|R:? W:?|
+|Chin-Ups|R:130x6|R:?|R:?|
+|Seated Bent-Over Back Flys|R:12 W:20|R:? W:?|R:? W:?|
+|Curl-Up/Hammer-Downs|R:9 W:15|R:? W:?|R:? W:?|
+|Hammer Curls|R:7 W:20|R:? W:?|R:? W:?|
+|Max Rep Pull-Ups|R:130x4|R:?|R:?|
+|Superman|R:10x5|R:?|R:?|
+|In-Out Hammer Curls|R:6 W:15|R:? W:?|R:? W:?|
+|Strip-Set Curls|R:6/5/8/8 W:20/15/12/10|R:? W:?|R:? W:?|
 
-*R1=Reps round 1, R2=Reps round 2, W1=Weight (lbs) round 1, W2=Weight (lbs) round 2, a=assisted, k=knees*
+*R=Reps,, W=Weight (lbs), a=assisted, k=knees*
 
 |Exercise|Week 10|Week 12|
 |:---:|:---:|:---:|
-|Wide Front Pull-Ups|R1:? R2:?|R1:? R2:?|
-|Lawnmowers|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Twenty-Ones|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|One-Arm Cross-Body Curls|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Switch-Grip Pull-Ups|R1:? R2:?|R1:? R2:?|
-|Elbows-Out Lawnmowers|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Standing Bicep Curls|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|One-Arm Concentration Curls|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Corn Cob Pull-Ups|R1:? R2:?|R1:? R2:?|
-|Reverse Grip Bent-Over Rows|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Open-Arm Curls|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Static Curls|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Towel Pull-Ups|R1:? R2:?|R1:? R2:?|
-|Congdon Locomotives|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Crouching Cohen Curls|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|One-Arm Corkscrew Curls|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Chin-Ups|R1:? R2:?|R1:? R2:?|
-|Seated Bent-Over Back Flys|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Curl-Up/Hammer-Downs|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Hammer Curls|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Max Rep Pull-Ups|R1:? R2:?|R1:? R2:?|
-|Superman|R1:? R2:?|R1:? R2:?|
-|In-Out Hammer Curls|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
-|Strip-Set Curls|R1:? W1:? R2:? W2:?|R1:? W1:? R2:? W2:?|
+|Wide Front Pull-Ups|R:?|R:?|
+|Lawnmowers|R:? W:?|R:? W:?|
+|Twenty-Ones|R:? W:?|R:? W:?|
+|One-Arm Cross-Body Curls|R:? W:?|R:? W:?|
+|Switch-Grip Pull-Ups|R:?|R:?|
+|Elbows-Out Lawnmowers|R:? W:?|R:? W:?|
+|Standing Bicep Curls|R:? W:?|R:? W:?|
+|One-Arm Concentration Curls|R:? W:?|R:? W:?|
+|Corn Cob Pull-Ups|R:?|R:?|
+|Reverse Grip Bent-Over Rows|R:? W:?|R:? W:?|
+|Open-Arm Curls|R:? W:?|R:? W:?|
+|Static Curls|R:? W:?|R:? W:?|
+|Towel Pull-Ups|R:?|R:?|
+|Congdon Locomotives|R:? W:?|R:? W:?|
+|Crouching Cohen Curls|R:? W:?|R:? W:?|
+|One-Arm Corkscrew Curls|R:? W:?|R:? W:?|
+|Chin-Ups|R:?|R:?|
+|Seated Bent-Over Back Flys|R:? W:?|R:? W:?|
+|Curl-Up/Hammer-Downs|R:? W:?|R:? W:?|
+|Hammer Curls|R:? W:?|R:? W:?|
+|Max Rep Pull-Ups|R:?|R:?|
+|Superman|R:?|R:?|
+|In-Out Hammer Curls|R:? W:?|R:? W:?|
+|Strip-Set Curls|R:? W:?|R:? W:?|
 
-*R1=Reps round 1, R2=Reps round 2, W1=Weight (lbs) round 1, W2=Weight (lbs) round 2, a=assisted, k=knees*
+*R=Reps,, W=Weight (lbs), a=assisted, k=knees*
