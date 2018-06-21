@@ -128,7 +128,10 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <th>Snack</th>
     <th>Dinner</th>
     <th>Post Workout</th>
-    <th>Target</th>
+    <th>T
+    
+    
+    arget</th>
     <th>Actual</th>
     <th>Diff</th>
   </tr>
@@ -575,7 +578,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>falafel wrap<br>1p<br>1v<br>1c<br>1co</td>
     <td>heritage green salad<br>2v<br>1co</td>
     <td>burger w/ toppings<br>(no bun, no condiments)<br>1p<br>1f<br><br>broccoli<br>0.5v<br><br>sweet potato<br>1c</td>
-    <td>?protein shake (water, protein powder)</td>
+    <td>protein shake (water, protein powder)</td>
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co</td>
     <td>4p<br>0d<br>0fr<br>3.5v<br>1f<br>2.5c<br>1sd<br>2.5co</td>
     <td>-2p<br>-2d<br>-1fr<br>+0.5v<br>0f<br>-0.5c<br>0sd<br>+1co</td>
@@ -585,12 +588,12 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>non-fat greek yogurt<br>1d<br><br>strawberries<br>0.5fr</td>
     <td>protein bar<br>1sd</td>
     <td>falafel wrap<br>1p<br>1v<br>1c<br>1co</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>protein bar<br>1sd</td>
+    <td>eggs, turkey bacon and toast<br>2p<br>1f<br>1c<br><br>baby carrots and grape tomatoes<br>1v</td>
+    <td>protein shake<br>(milk, protein powder)<br>2p<br>1d</td>
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
-    <td>1p<br>1d<br>0.5fr<br>1v<br>0f<br>1c<br>1sd<br>1co</td>
-    <td>-5p<br>-1d<br>-0.5fr<br>-2v<br>-1f<br>-2c<br>0sd<br>-0.5co</td>
+    <td>3p<br>1d<br>0.5fr<br>2v<br>1f<br>2c<br>2sd<br>1co</td>
+    <td>-3p<br>-1d<br>-0.5fr<br>-1v<br>0f<br>-1c<br>+1sd<br>-0.5co</td>
   </tr>
   <tr valign="top" align="left">
     <td>T</td>
