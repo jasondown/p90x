@@ -164,7 +164,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>cottage cheese<br>1d<br><br>2 turkey pepperettes<br>1p<br><br>strawberries<br>1fr</td>
     <td>protein bar<br>1sd</td>
     <td>tuna salad<br>2p<br>1f<br><br>english muffin<br>0.5c<br><br>butternut squash soup<br>0.5v</td>
-    <td>unsalted sunflower seeds<br>1ss</td>
+    <td>unsalted sunflower seeds<br>0.5sd</td>
     <td>cold cut plate<br>1p<br><br>small pasta salad<br>0.5c<br><br>salad<br>1v<br>1co<br><br>fish lettuce wraps<br>1p<br>2v</td>
     <td>protein shake<br>(milk, protein powder)<br>2p<br>1d</td>
     <td>7p<br>3d<br>1fr<br>4v<br>1f<br>1c<br>1sd<br>2co</td>
@@ -612,12 +612,12 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>protein shake<br>(milk, protein powder)<br>2p<br>1d<br><br>banana<br>1fr</td>
     <td>protein bar</td>
     <td>sweet & sour chicken w/ veggies, pineapple & rice<br>1p<br>1c<br>1v<br>1co<br>0.5fr</td>
-    <td>?</td>
-    <td>?</td>
+    <td>unsalted sunflower seeds<br>0.5sd</td>
+    <td>steak<br>2p<br><br>sweet potato<br>1c<br><br>roasted peppers<br>1v<br>1f</td>
     <td>?</td>
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
-    <td>3p<br>1d<br>1.5fr<br>1v<br>0f<br>1c<br>1sd<br>1co</td>
-    <td>-3p<br>-1d<br>+0.5fr<br>-2v<br>-1f<br>-2c<br>0sd<br>-0.5co</td>
+    <td>5p<br>1d<br>1.5fr<br>2v<br>1f<br>2c<br>1.5sd<br>1co</td>
+    <td>-1p<br>-1d<br>+0.5fr<br>-1v<br>0f<br>-1c<br>+0.5sd<br>-0.5co</td>
   </tr>
   <tr valign="top" align="left">
     <td>S</td>
