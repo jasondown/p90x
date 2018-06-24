@@ -635,13 +635,13 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>S</td>
     <td>X</td>
     <td>protein bar<br>1sd</td>
-    <td>?</td>
-    <td>?</td>
+    <td>omelette<br>(2 eggs, red/green peppers, green/spanish onion, fresh dill)<br>1.5p<br>0.5f<br>1v<br>0.5co</td>
+    <td>english muffin w/ natural peanut butter<br>0.5c<br>0.5co</td>
     <td>?</td>
     <td>?</td>
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
-    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>1sd<br>0co</td>
-    <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>0sd<br>-1.5co</td>
+    <td>1.5p<br>0d<br>0fr<br>1v<br>0.5f<br>0.5c<br>1sd<br>1co</td>
+    <td>-4.5p<br>-2d<br>-1fr<br>-2v<br>-0.5f<br>-3c<br>0sd<br>-0.5co</td>
   </tr>
 </table>
 
