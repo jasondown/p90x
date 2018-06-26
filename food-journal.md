@@ -680,13 +680,13 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>T</td>
     <td>spicy turkey pepperette<br>0.5p<br><br>carrots<br>1v</td>
     <td>protein bar<br>1sd</td>
-    <td>?</td>
-    <td>?</td>
+    <td>tuna salad<br>2p<br>1f<br><br>english muffin<br>0.5c</td>
+    <td>spicy turkey pepperette<br>0.5p</td>
     <td>?</td>
     <td>?</td>
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co</td>
-    <td>1p<br>0d<br>0fr<br>1v<br>0f<br>0c<br>1sd<br>0co</td>
-    <td>-5p<br>-2d<br>-1fr<br>-2v<br>-1f<br>-3c<br>0sd<br>-1.5co</td>
+    <td>3p<br>0d<br>0fr<br>1v<br>1f<br>0.5c<br>1sd<br>0co</td>
+    <td>-3p<br>-2d<br>-1fr<br>-2v<br>0f<br>-2.5c<br>0sd<br>-1.5co</td>
   </tr>
   <tr valign="top" align="left">
     <td>W</td>
