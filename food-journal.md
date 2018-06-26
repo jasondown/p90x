@@ -669,12 +669,12 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>protein bar<br>1sd</td>
     <td>X</td>
     <td>spicy beef curry stir-fry<br>1p<br>1v<br>1c<br>1co</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>spicy turkey pepperette<br>0.5p</td>
+    <td>cheeseburger<br>1.5p<br>1f<br>0.5c<br>0.5d<br>0.5v<br>1co<br><br>strawberries<br>1fr</td>
+    <td>protein shake<br>(milk, protein powder)<br>2p<br>1d</td>
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co</td>
-    <td>1p<br>0d<br>0fr<br>1v<br>0f<br>1c<br>1sd<br>1co</td>
-    <td>-5p<br>-2d<br>-1fr<br>-2v<br>-1f<br>-2c<br>0sd<br>-0.5co</td>
+    <td>5p<br>1.5d<br>1fr<br>1.5v<br>1f<br>1.5c<br>1sd<br>2co</td>
+    <td>-1p<br>-0.5d<br>0fr<br>-1.5v<br>0f<br>-1.5c<br>0sd<br>+0.5co</td>
   </tr>
   <tr valign="top" align="left">
     <td>T</td>
