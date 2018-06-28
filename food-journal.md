@@ -697,7 +697,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>whole wheat spaghetti w/ meat sauce & parmesan cheese<br>1.5c<br>1v<br>1p<br>1f<br>1d<br><br>homeade salsa<br>1v<br>beer<br>0.5c</td>
     <td>?</td>
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
-    <td>1p<br>1d<br>0fr<br>3v<br>1f<br>3c<br>1sd<br>1co</td>
+    <td>6p<br>1d<br>0fr<br>3v<br>1f<br>3c<br>1sd<br>1co</td>
     <td>0p<br>-1d<br>-1fr<br>0v<br>0f<br>0c<br>0sd<br>-0.5co</td>
   </tr>
   <tr valign="top" align="left">
