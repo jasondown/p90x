@@ -717,12 +717,12 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>spicy turkey pepperette<br>0.5p</td>
     <td>protein bar<br>1sd</td>
     <td>falafel wrap<br>1p<br>1v<br>1c<br>1co<br><br>heritage green salad<br>2v<br>1co</td></td>
-    <td>?</td>
-    <td>?</td>
+    <td>banana<br>1fr</td>
+    <td>hamburger<br>1.5p<br>0.5v<br>0.5f<br>1c<br>1co<br>0.5d</td>
     <td>?</td>
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
-    <td>1.5pp<br>0d<br>0fr<br>3v<br>0f<br>1c<br>1sd<br>2co</td>
-    <td>-4.5p<br>-2d<br>-1fr<br>0v<br>-1f<br>-2c<br>0sd<br>+0.5co</td>
+    <td>3p<br>0.5d<br>1fr<br>3.5v<br>0.5f<br>2c<br>1sd<br>3co</td>
+    <td>-3p<br>-1.5d<br>0fr<br>+0.5v<br>-0.5f<br>-1c<br>0sd<br>+1.5co</td>
   </tr>
   <tr valign="top" align="left">
     <td>S</td>
