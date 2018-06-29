@@ -705,7 +705,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>protein shake (water, protein powder)<br>2p</td>
     <td>protein bar<br>1sd</td>
     <td>turkey sandwich<br>1p<br>0.5v<br>0.5c<br>1co<br><br>heritage green salad<br>2v<br>1co</td>
-    <td>turkey pepperette<br>0.5p</td>
+    <td>spicy turkey pepperette<br>0.5p</td>
     <td>sheppards pie<br>1p<br>1f<br>1v<br>1c</td>
     <td>protein shake (milk, protein powder)<br>1.5p<br>1d</td>
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
@@ -714,15 +714,15 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
   </tr>
   <tr valign="top" align="left">
     <td>F</td>
-    <td>?</td>
-    <td>?</td>
+    <td>spicy turkey pepperette<br>0.5p</td>
+    <td>protein bar<br>1sd</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
-    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
-    <td>-6p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>-1sd<br>-1.5co</td>
+    <td>0.5pp<br>0d<br>0fr<br>0v<br>0f<br>0c<br>1sd<br>0co</td>
+    <td>-5p<br>-2d<br>-1fr<br>-3v<br>-1f<br>-3c<br>0sd<br>-1.5co</td>
   </tr>
   <tr valign="top" align="left">
     <td>S</td>
