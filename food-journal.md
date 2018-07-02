@@ -743,7 +743,7 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>veggies and dip<br>1v<br>0.5co<br><br>pineapple<br>1fr</td>
     <td>X</td>
     <td>hamburger<br>1.5p<br>0.5f<br>1c<br>1co<br><br>beer<br>2c</td>
-    <td>?</td>
+    <td>X</td>
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
     <td>3.5p<br>0.5d<br>1fr<br>1.5v<br>1.5f<br>3c<br>1sd<br>1.5co</td>
     <td>-2.5p<br>-1.5d<br>0fr<br>-2.5v<br>+0.5f<br>0c<br>0sd<br>0co</td>
@@ -771,15 +771,15 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
   </tr>
   <tr valign="top" align="left">
     <td>M</td>
-    <td>?</td>
-    <td>?</td>
+    <td>strawberries<br>0.5fr</td>
+    <td>english muffin w/ natural peanut butter<br>0.5c<br>0.5co</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>4p<br>2d<br>1fr<br>2v<br>1f<br>2c<br>1ss<br>1co</td>
-    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
-    <td>-4p<br>-2d<br>-1fr<br>-2v<br>-1f<br>-2c<br>-1ss<br>-1co</td>
+    <td>0p<br>0d<br>0.5fr<br>0v<br>0f<br>1c<br>0ss<br>0.5co</td>
+    <td>-4p<br>-2d<br>-0.5fr<br>-2v<br>-1f<br>-1c<br>-1ss<br>-0.5co</td>
   </tr>
   <tr valign="top" align="left">
     <td>T</td>
