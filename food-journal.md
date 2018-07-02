@@ -739,14 +739,14 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
   <tr valign="top" align="left">
     <td>S</td>
     <td>omelette<br>(2 eggs, 1/2 shallot, minced garlic, mushrooms, cheese)<br>2p<br>1f<br>0.5v<br>0.5d</td>
-    <td>crunch chick peas<br>1sd</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>crunchy chick peas<br>1sd</td>
+    <td>veggies and dip<br>1v<br>0.5co<br><br>pineapple<br>1fr</td>
+    <td>X</td>
+    <td>hamburger<br>1.5p<br>0.5f<br>1c<br>1co<br><br>beer<br>2c</td>
     <td>?</td>
     <td>6p<br>2d<br>1fr<br>3v<br>1f<br>3c<br>1sd<br>1.5co<br></td>
-    <td>2p<br>0.5d<br>0fr<br>0.5v<br>1f<br>0c<br>1sd<br>0co</td>
-    <td>-3p<br>-1.5d<br>-1fr<br>-2.5v<br>0f<br>-3c<br>0sd<br>-1.5co</td>
+    <td>3.5p<br>0.5d<br>1fr<br>1.5v<br>1.5f<br>3c<br>1sd<br>1.5co</td>
+    <td>-2.5p<br>-1.5d<br>0fr<br>-2.5v<br>+0.5f<br>0c<br>0sd<br>0co</td>
   </tr>
 </table>
 
