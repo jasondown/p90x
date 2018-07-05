@@ -811,11 +811,11 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>banana<br>1fr</td>
     <td>tuna sandwich<br>0.5p<br>1c<br>0.5f<br>0.5v<br><br>heritage green salad<br>2v<br>1co</td></td>
     <td>protein bar<br>2ss</td>
-    <td>?</td>
+    <td>bbq chicken pizza<br>1c<br>0.5v<br>0.5p<br>1d</td>
     <td>?</td>
     <td>4p<br>2d<br>1fr<br>2v<br>1f<br>2c<br>1ss<br>1co</td>
-    <td>2.5p<br>1d<br>1fr<br>2.5v<br>0.5f<br>1c<br>2ss<br>1co</td>
-    <td>-1.5p<br>-1d<br>0fr<br>+0.5v<br>-0.5f<br>-1c<br>+1ss<br>0co</td>
+    <td>3p<br>2d<br>1fr<br>3v<br>0.5f<br>2c<br>2ss<br>1co</td>
+    <td>-1p<br>0d<br>0fr<br>+1v<br>-0.5f<br>0c<br>+1ss<br>0co</td>
   </tr>
   <tr valign="top" align="left">
     <td>F</td>
