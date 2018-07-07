@@ -824,22 +824,22 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>chicken chow mein<br>0.5c<br>0.5v<br><br>lemon chicken balls<br>0.5p<br>0.5c<br>1co</td>
     <td>protein bar<br>2ss</td>
     <td>chicken sausage on a bun<br>1.5p<br>1c<br>0.5co<br><br>broccoli<br>1v<br><br>beer<br>0.5c</td>
-    <td>?</td>
+    <td>X</td>
     <td>4p<br>2d<br>1fr<br>2v<br>1f<br>2c<br>1ss<br>1co</td>
     <td>2p<br>0d<br>1fr<br>1.5v<br>0f<br>2.5c<br>2ss<br>1.5co</td>
     <td>-2p<br>-2d<br>0fr<br>-0.5v<br>-1f<br>+0.5c<br>+1ss<br>+0.5co</td>
   </tr>
   <tr valign="top" align="left">
     <td>S</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>X</td>
+    <td>X</td>
+    <td>butternut squash and red pepper soup<br>2v</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>4p<br>2d<br>1fr<br>2v<br>1f<br>2c<br>1ss<br>1co</td>
-    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
-    <td>-4p<br>-2d<br>-1fr<br>-2v<br>-1f<br>-2c<br>-1ss<br>-1co</td>
+    <td>0p<br>0d<br>0fr<br>2v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-4p<br>-2d<br>-1fr<br>0v<br>-1f<br>-2c<br>-1ss<br>-1co</td>
   </tr>
   <tr valign="top" align="left">
     <td>S</td>
