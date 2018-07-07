@@ -823,11 +823,11 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>X</td>
     <td>chicken chow mein<br>0.5c<br>0.5v<br><br>lemon chicken balls<br>0.5p<br>0.5c<br>1co</td>
     <td>protein bar<br>2ss</td>
-    <td>?</td>
+    <td>chicken sausage on a bun<br>1.5p<br>1c<br>0.5co<br><br>broccoli<br>1v<br><br>beer<br>0.5c</td>
     <td>?</td>
     <td>4p<br>2d<br>1fr<br>2v<br>1f<br>2c<br>1ss<br>1co</td>
-    <td>0.5p<br>0d<br>1fr<br>0.5v<br>0f<br>1c<br>2ss<br>1co</td>
-    <td>-3.5p<br>-2d<br>0fr<br>-1.5v<br>-1f<br>-1c<br>+1ss<br>0co</td>
+    <td>2p<br>0d<br>1fr<br>1.5v<br>0f<br>2.5c<br>2ss<br>1.5co</td>
+    <td>-2p<br>-2d<br>0fr<br>-0.5v<br>-1f<br>+0.5c<br>+1ss<br>+0.5co</td>
   </tr>
   <tr valign="top" align="left">
     <td>S</td>
