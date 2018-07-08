@@ -847,11 +847,11 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>banana<br>1fr</td>
     <td>eggs and toast<br>1.5p<br>1c<br>1f</td>
     <td>salad<br>(cottage cheese, cucumber, tomato, sun-dried tomato & oregano dressing)<br>1d<br>1.5v<br>1co</td>
-    <td>?</td>
+    <td>1/2 sharwarma wrap<br>1p<br>1v<br>1co<br><br>1/4 shawarma poutine<br>0.5c<br>1co<br>0.5p<br><br>beer<br>0.5c</td>
     <td>?</td>
     <td>4p<br>2d<br>1fr<br>2v<br>1f<br>2c<br>1ss<br>1co</td>
-    <td>1.5p<br>1d<br>1fr<br>1.5v<br>1f<br>1c<br>2ss<br>1co</td>
-    <td>-2.5p<br>-1d<br>0fr<br>-0.5v<br>0f<br>-1c<br>+1ss<br>0co</td>
+    <td>3p<br>1d<br>1fr<br>2.5v<br>1f<br>2c<br>2ss<br>3co</td>
+    <td>-1p<br>-1d<br>0fr<br>+0.5v<br>0f<br>0c<br>+1ss<br>+2co</td>
   </tr>
 </table>
 
