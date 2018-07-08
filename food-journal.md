@@ -844,14 +844,14 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
   <tr valign="top" align="left">
     <td>S</td>
     <td>protein bar<br>2ss</td>
-    <td>?</td>
+    <td>banana<br>1fr</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>4p<br>2d<br>1fr<br>2v<br>1f<br>2c<br>1ss<br>1co</td>
-    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>2ss<br>0co</td>
-    <td>-4p<br>-2d<br>-1fr<br>-2v<br>-1f<br>-2c<br>+1ss<br>-1co</td>
+    <td>0p<br>0d<br>1fr<br>0v<br>0f<br>0c<br>2ss<br>0co</td>
+    <td>-4p<br>-2d<br>0fr<br>-2v<br>-1f<br>-2c<br>+1ss<br>-1co</td>
   </tr>
 </table>
 
