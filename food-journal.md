@@ -832,14 +832,14 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
   <tr valign="top" align="left">
     <td>S</td>
     <td>X</td>
-    <td>X</td>
     <td>butternut squash and red pepper soup<br>2v</td>
-    <td>?</td>
-    <td>?</td>
+    <td>grilled chicken, cheese & bacon burger<br>1c<br>2p<br>1f<br>0.5c</td>
+    <td>beer<br>1c<br><br>cottage cheese<br>1ss</td>
+    <td>hamburger<br>0.5c<br>1p<br>0.5co</td>
     <td>?</td>
     <td>4p<br>2d<br>1fr<br>2v<br>1f<br>2c<br>1ss<br>1co</td>
-    <td>0p<br>0d<br>0fr<br>2v<br>0f<br>0c<br>0ss<br>0co</td>
-    <td>-4p<br>-2d<br>-1fr<br>0v<br>-1f<br>-2c<br>-1ss<br>-1co</td>
+    <td>3p<br>0.5d<br>0fr<br>2v<br>1f<br>3c<br>1ss<br>1co</td>
+    <td>-1p<br>-1.5d<br>-1fr<br>0v<br>0f<br>+1c<br>0ss<br>0co</td>
   </tr>
   <tr valign="top" align="left">
     <td>S</td>
