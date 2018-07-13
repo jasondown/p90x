@@ -930,13 +930,13 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>F</td>
     <td>omelette<br>(2 eggs, mushrooms, onions, mozzarella, olive oil)<br>1.5p<br>0.5v<br>0.5d<br>1f</td>
     <td>beer<br>1c</td>
-    <td>?</td>
+    <td>tuna salad<br>1p<br>1f</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>4p<br>2d<br>1fr<br>2v<br>1f<br>2c<br>1ss<br>1co</td>
-    <td>1.5p<br>0.5d<br>0fr<br>0.5v<br>1f<br>1c<br>0ss<br>0co</td>
-    <td>-2.5p<br>-1.5d<br>-1fr<br>-1.5v<br>0f<br>-1c<br>-1ss<br>-1co</td>
+    <td>2.5p<br>0.5d<br>0fr<br>0.5v<br>2f<br>1c<br>0ss<br>0co</td>
+    <td>-1.5p<br>-1.5d<br>-1fr<br>-1.5v<br>+1f<br>-1c<br>-1ss<br>-1co</td>
   </tr>
   <tr valign="top" align="left">
     <td>S</td>
