@@ -986,14 +986,14 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
   <tr valign="top" align="left">
     <td>M</td>
     <td>english muffin w/ natural peanut butter<br>0.5c<br>0.5co</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>X</td>
+    <td>mediterranean pork stew w/ rice<br>1p<br>0.5v<br>1c</td>
+    <td>X</td>
     <td>?</td>
     <td>?</td>
     <td>4p<br>2d<br>1fr<br>2v<br>1f<br>2c<br>1ss<br>1co</td>
-    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0.5c<br>0ss<br>0.5co</td>
-    <td>-4p<br>-2d<br>-1fr<br>-2v<br>-1f<br>-1.5c<br>-1ss<br>-0.5co</td>
+    <td>1p<br>0d<br>0fr<br>0.5v<br>0f<br>1.5c<br>0ss<br>0.5co</td>
+    <td>-3p<br>-2d<br>-1fr<br>-1.5v<br>-1f<br>-0.5c<br>-1ss<br>-0.5co</td>
   </tr>
   <tr valign="top" align="left">
     <td>T</td>
