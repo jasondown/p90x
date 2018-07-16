@@ -931,36 +931,36 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>omelette<br>(2 eggs, mushrooms, onions, mozzarella, olive oil)<br>1.5p<br>0.5v<br>0.5d<br>1f</td>
     <td>beer<br>1c</td>
     <td>tuna salad<br>1p<br>1f</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>caesar<br>1c<br>0.5v<br><br>trail mix<br>2ss</td>
+    <td>spaghettini & meat sauce<br>1c<br>0.5p<br>0.5v<br><br>beer<br>1c</td>
+    <td>X</td>
     <td>4p<br>2d<br>1fr<br>2v<br>1f<br>2c<br>1ss<br>1co</td>
-    <td>2.5p<br>0.5d<br>0fr<br>0.5v<br>2f<br>1c<br>0ss<br>0co</td>
-    <td>-1.5p<br>-1.5d<br>-1fr<br>-1.5v<br>+1f<br>-1c<br>-1ss<br>-1co</td>
+    <td>3p<br>0.5d<br>0fr<br>1.5v<br>2f<br>4c<br>2ss<br>0co</td>
+    <td>-1p<br>-1.5d<br>-1fr<br>-0.5v<br>+1f<br>+2c<br>+1ss<br>-1co</td>
   </tr>
   <tr valign="top" align="left">
     <td>S</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>bacon<br>1p<br>1f<br><br>protein bar<br>2p</td>
+    <td>turkey pepperette<br>0.5p</td>
+    <td>beer<br>1c<br><br>apple<br>1fr<br>1/2 kraft dinner<br>0.5c</td>
+    <td>trail mix<br>1ss</td>
+    <td>beer<br>1c<br><br>chicken wrap<br>1c<br>0.5p<br>1v<br>1co<br>0.5d<br><br>chicken salad<br>1p<br>1v</td>
+    <td>X</td>
     <td>4p<br>2d<br>1fr<br>2v<br>1f<br>2c<br>1ss<br>1co</td>
-    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
-    <td>-4p<br>-2d<br>-1fr<br>-2v<br>-1f<br>-2c<br>-1ss<br>-1co</td>
+    <td>5p<br>0.5d<br>1fr<br>2v<br>1f<br>3.5c<br>1ss<br>1co</td>
+    <td>+1p<br>-1.5d<br>0fr<br>0v<br>0f<br>+1.5c<br>0ss<br>0co</td>
   </tr>
   <tr valign="top" align="left">
     <td>S</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>apple<br>1fr</td>
+    <td>protein bar<br>2ss</td>
+    <td>turkey sandwich<br>1c<br>1p<br>1d<br>1co<br><br>beer<br>0.5c</td>
+    <td>turkey pepperette<br>0.5p</td>
+    <td>pepperoni pizza<br>1.5c<br>1.5d<br>1p</td>
+    <td>X</td>
     <td>4p<br>2d<br>1fr<br>2v<br>1f<br>2c<br>1ss<br>1co</td>
-    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
-    <td>-4p<br>-2d<br>-1fr<br>-2v<br>-1f<br>-2c<br>-1ss<br>-1co</td>
+    <td>2.5p<br>2d<br>1fr<br>0v<br>0f<br>3c<br>2ss<br>1co</td>
+    <td>-1.5p<br>0d<br>0fr<br>-2v<br>-1f<br>+1c<br>+1ss<br>0co</td>
   </tr>
 </table>
 
