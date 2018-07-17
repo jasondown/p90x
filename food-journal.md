@@ -986,14 +986,14 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
   <tr valign="top" align="left">
     <td>M</td>
     <td>english muffin w/ natural peanut butter<br>0.5c<br>0.5co</td>
-    <td>X</td>
-    <td>mediterranean pork stew w/ rice<br>1p<br>0.5v<br>1c</td>
     <td>banana & natural peanut butter<br>1fr<br>0.5co</td>
+    <td>mediterranean pork stew w/ rice<br>1p<br>0.5v<br>1c</td>
+    <td>turkey pepperette<br>0.5p<br><br>cheese string<br>0.5d</td>
     <td>meatballs<br>1p<br>1co<br><br>broccoli<br>1v<br><br>french fries<br>0.5c<br>0.5f</td>
-    <td>protein shake<br>(milk, protein powder)<br>2p<br>1d</td>
+    <td>X</td>
     <td>4p<br>2d<br>1fr<br>2v<br>1f<br>2c<br>1ss<br>1co</td>
-    <td>4p<br>1d<br>1fr<br>1.5v<br>0.5f<br>2c<br>0ss<br>2co</td>
-    <td>0p<br>-1d<br>0fr<br>-0.5v<br>-0.5f<br>0c<br>-1ss<br>+1co</td>
+    <td>2.5p<br>0.5d<br>1fr<br>1.5v<br>0.5f<br>2c<br>0ss<br>2co</td>
+    <td>-1.5p<br>-1.5d<br>0fr<br>-0.5v<br>-0.5f<br>0c<br>-1ss<br>+1co</td>
   </tr>
   <tr valign="top" align="left">
     <td>T</td>
