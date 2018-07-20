@@ -1025,23 +1025,23 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>english muffin, sausage, egg<br>0.5c<br>1p<br>0.5f</td>
     <td>salad<br>1v<br>1co</td>
     <td>protein bar<br>2ss</td>
-    <td>?</td>
-    <td>?</td>
+    <td>pepperoni pizza<br>1.5c<br>1d<br>0.5p<br>0.5v<br><br>grapefruit radler<br>0.5c</td>
+    <td>cheese<br>1d<br><br>grapes<br>1fr<br><br>meats<br>1.5p<br>0.5f<br><br>veggies<br>0.5v<br><br>mohito<br>1c<br><br>nachos & guacamole<br>1c<br>1f</td>
     <td>4p<br>2d<br>1fr<br>2v<br>1f<br>2c<br>1ss<br>1co</td>
-    <td>1p<br>0d<br>0fr<br>1v<br>0.5f<br>1c<br>2ss<br>1.5co</td>
-    <td>-3p<br>-2d<br>-1fr<br>-1v<br>-0.5f<br>-1c<br>+1ss<br>+0.5co</td>
+    <td>3p<br>2d<br>1fr<br>2v<br>2f<br>5c<br>2ss<br>1.5co</td>
+    <td>-1p<br>0d<br>0fr<br>0v<br>+1f<br>+3c<br>+1ss<br>+0.5co</td>
   </tr>
   <tr valign="top" align="left">
     <td>F</td>
-    <td>?</td>
-    <td>?</td>
+    <td>1/2 protein shake<br>(milk, protein powder)<br>0.5d<br>1p</td>
+    <td>X</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>4p<br>2d<br>1fr<br>2v<br>1f<br>2c<br>1ss<br>1co</td>
-    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
-    <td>-4p<br>-2d<br>-1fr<br>-2v<br>-1f<br>-2c<br>-1ss<br>-1co</td>
+    <td>1p<br>0.5d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-3p<br>-1.5d<br>-1fr<br>-2v<br>-1f<br>-2c<br>-1ss<br>-1co</td>
   </tr>
   <tr valign="top" align="left">
     <td>S</td>
