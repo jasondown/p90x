@@ -1035,25 +1035,25 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>F</td>
     <td>1/2 protein shake<br>(milk, protein powder)<br>0.5d<br>1p</td>
     <td>X</td>
-    <td>ribs & chicken<br>1p<br>1co<br>1f<br><br>beer<br>1c</td>
+    <td>ribs & chicken<br>1p<br>1co<br>1f<br><br>beer<br>1c<br><br>1/3 bloomin onion<br>1c<br>0.5v<br>1f<br>1co</td>
     <td>fudgsicle<br>1ss</td>
-    <td>salmon & rice<br>0.5p<br>1c</td>
-    <td>?</td>
+    <td>salmon & rice<br>0.5p<br>1c<br><br>raspberries<br>1fr<br><br>grape tomatoes<br>1v</td>
+    <td>X</td>
     <td>4p<br>2d<br>1fr<br>2v<br>1f<br>2c<br>1ss<br>1co</td>
-    <td>2.5p<br>0.5d<br>0fr<br>0v<br>1f<br>2c<br>1ss<br>1co</td>
-    <td>-1.5p<br>-1.5d<br>-1fr<br>-2v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>2.5p<br>0.5d<br>1fr<br>1.5v<br>2f<br>3c<br>1ss<br>2co</td>
+    <td>-1.5p<br>-1.5d<br>0fr<br>-0.5v<br>+1f<br>+1c<br>0ss<br>+1co</td>
   </tr>
   <tr valign="top" align="left">
     <td>S</td>
-    <td>?</td>
-    <td>?</td>
+    <td>X</td>
+    <td>protein bar<br>2ss</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>4p<br>2d<br>1fr<br>2v<br>1f<br>2c<br>1ss<br>1co</td>
-    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
-    <td>-4p<br>-2d<br>-1fr<br>-2v<br>-1f<br>-2c<br>-1ss<br>-1co</td>
+    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>2ss<br>0co</td>
+    <td>-4p<br>-2d<br>-1fr<br>-2v<br>-1f<br>-2c<br>+1ss<br>-1co</td>
   </tr>
   <tr valign="top" align="left">
     <td>S</td>
