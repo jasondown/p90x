@@ -1049,11 +1049,11 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>protein bar<br>2ss</td>
     <td>X</td>
     <td>protein bar<br>2p</td>
-    <td>?</td>
-    <td>?</td>
+    <td>veggies<br>1v<br><br>raspberries & blueberries<br>1fr<br><br>steak & mushroom pie<br>1p<br>0.5c<br>0.5v<br>1f</td>
+    <td>beer<br>3c<br><br>bbq chicken pizza<br>1d<br>1c<br>0.5v<br>0.5p<br>1co</td>
     <td>4p<br>2d<br>1fr<br>2v<br>1f<br>2c<br>1ss<br>1co</td>
-    <td>2p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>2ss<br>0co</td>
-    <td>-2p<br>-2d<br>-1fr<br>-2v<br>-1f<br>-2c<br>+1ss<br>-1co</td>
+    <td>3.5p<br>1d<br>1fr<br>2v<br>1f<br>4.5c<br>2ss<br>1co</td>
+    <td>-0.5p<br>-1d<br>0fr<br>0v<br>0f<br>+2.5c<br>+1ss<br>0co</td>
   </tr>
   <tr valign="top" align="left">
     <td>S</td>
