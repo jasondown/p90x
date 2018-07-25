@@ -1107,22 +1107,22 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>turkey wrap<br>(turkey, bacon, tomato, lettuce, tzatziki, parmesan)<br>1p<br>0.5v<br>1c<br>1co<br>0.5d</td>
     <td>protein bar<br>2ss</td>
     <td>falafel wrap<br>1p<br>1v<br>1c<br>1co</td>
-    <td>?</td>
+    <td>banana</td>
     <td>4p<br>2d<br>1fr<br>2v<br>1f<br>2c<br>1ss<br>1co</td>
-    <td>2.5p<br>1d<br>0fr<br>1.5v<br>1f<br>2.5c<br>2ss<br>2co</td>
-    <td>-1.5p<br>-1d<br>-1fr<br>-0.5v<br>0f<br>+0.5c<br>+1ss<br>+1co</td>
+    <td>2.5p<br>1d<br>1fr<br>1.5v<br>1f<br>2.5c<br>2ss<br>2co</td>
+    <td>-1.5p<br>-1d<br>0fr<br>-0.5v<br>0f<br>+0.5c<br>+1ss<br>+1co</td>
   </tr>
   <tr valign="top" align="left">
     <td>W</td>
-    <td>?</td>
+    <td>protein shake<br>(milk, protein powder)<br>2p<br>1d</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>?</td>
     <td>4p<br>2d<br>1fr<br>2v<br>1f<br>2c<br>1ss<br>1co</td>
-    <td>0p<br>0d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
-    <td>-4p<br>-2d<br>-1fr<br>-2v<br>-1f<br>-2c<br>-1ss<br>-1co</td>
+    <td>2p<br>1d<br>0fr<br>0v<br>0f<br>0c<br>0ss<br>0co</td>
+    <td>-2p<br>-1d<br>-1fr<br>-2v<br>-1f<br>-2c<br>-1ss<br>-1co</td>
   </tr>
   <tr valign="top" align="left">
     <td>T</td>
