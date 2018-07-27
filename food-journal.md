@@ -1130,11 +1130,11 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>X</td>
     <td>tuna salad sandwich<br>1p<br>0.5c<br>0.5d<br>0.5f</td>
     <td>protein bar<br>2ss</td>
-    <td>?</td>
+    <td>salad<br>1v<br>0.5co<br><br>hotdog<br>0.5p<br>0.5c<br>0.5co</td>
     <td>?</td>
     <td>4p<br>2d<br>1fr<br>2v<br>1f<br>2c<br>1ss<br>1co</td>
-    <td>1.5p<br>1d<br>0fr<br>1v<br>1.5f<br>1c<br>2ss<br>0co</td>
-    <td>-2.5p<br>-1d<br>-1fr<br>-1v<br>+0.5f<br>-1c<br>+1ss<br>-1co</td>
+    <td>2p<br>1d<br>0fr<br>2v<br>1.5f<br>1.5c<br>2ss<br>1co</td>
+    <td>-2p<br>-1d<br>-1fr<br>0v<br>+0.5f<br>-0.5c<br>+1ss<br>0co</td>
   </tr>
   <tr valign="top" align="left">
     <td>F</td>
