@@ -1198,12 +1198,12 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>salmon salad<br>1p<br>0.5f<br>0.5v</td>
     <td>X</td>
     <td>sushi bowl<br>1c<br>0.5v<br>0.5co<br>0.5f</td>
-    <td>?</td>
-    <td>?</td>
+    <td>banana<br>1fr</td>
+    <td>black forest ham sandwich<br>0.5c<br>1p<br>0.5v<br>0.5d<br><br>cheese pizza<br>0.5c<br>0.5d</td>
     <td>?</td>
     <td>4p<br>2d<br>1fr<br>2v<br>1f<br>2c<br>1ss<br>1co</td>
-    <td>1p<br>0d<br>0fr<br>1v<br>1f<br>1c<br>0ss<br>0.5co</td>
-    <td>-4p<br>-2d<br>-1fr<br>-1v<br>0f<br>-1c<br>-1ss<br>-0.5co</td>
+    <td>1.5p<br>1d<br>1fr<br>1.5v<br>1f<br>2c<br>0ss<br>0.5co</td>
+    <td>-2.5p<br>-1d<br>0fr<br>-0.5v<br>0f<br>0c<br>-1ss<br>-0.5co</td>
   </tr>
   <tr valign="top" align="left">
     <td>T</td>
