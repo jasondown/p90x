@@ -1210,12 +1210,12 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>1/2 protein shake<br>(milk, protein powder)<br>1p<br>0.5d<br><br>blueberries & strawberries<br>1fr</td>
     <td>X</td>
     <td>falafel wrap<br>1p<br>1v<br>1c<br>1co<br><br>lentil and red quinoa salad<br>0.5c<br>0.5v<br><br>cake<br>1c</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>montreal smoked meat sandwich<br>0.5c<br>0.5v<br>1p<br>0.5co<br>0.5d</td>
+    <td>popcorn chicken (few pieces)<br>0.5p<br>0.5c<br><br>poutine (little bit)<br>0.5c<br>0.5f<br>0.5d</td>
+    <td>X</td>
     <td>4p<br>2d<br>1fr<br>2v<br>1f<br>2c<br>1ss<br>1co</td>
-    <td>2p<br>0.5d<br>1fr<br>1.5v<br>0f<br>2.5c<br>0ss<br>1co</td>
-    <td>-2p<br>-1d<br>0fr<br>-0.5v<br>-1f<br>+0.5c<br>-1ss<br>0co</td>
+    <td>3.5p<br>1.5d<br>1fr<br>2v<br>0.5f<br>4c<br>0ss<br>1.5co</td>
+    <td>-0.5p<br>-0.5d<br>0fr<br>0v<br>-0.5f<br>+2c<br>-1ss<br>+0.5co</td>
   </tr>
   <tr valign="top" align="left">
     <td>W</td>
