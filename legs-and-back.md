@@ -9,10 +9,10 @@
 
 |Exercise|Week 7|Week 9|Week 10|Week 11|Week 12|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|Reverse Grip Chin-Ups|R1:160x10 R2:160x9|R1:170x9 R2:170x7|R1:? R2:?|R1:? R2:?|R1:? R2:?|
-|Wide Front Pull-Ups|R1:160x8 R2:160x8|R1:170x7 R2:170x6|R1:? R2:?|R1:? R2:?|R1:? R2:?|
-|Close Grip Overhand Pull-Ups|R1:160x8 R2:160x7|R1:170x6 R2:170x8|R1:? R2:?|R1:? R2:?|R1:? R2:?|
-|Switch Grip Pull-Ups|R1:160x8 R2:160x7|R1:170x6 R2:170x6|R1:? R2:?|R1:? R2:?|R1:? R2:?|
+|Reverse Grip Chin-Ups|R1:160x10 R2:160x9|R1:170x9 R2:170x7|R1:170x8 R2:170x8|R1:? R2:?|R1:? R2:?|
+|Wide Front Pull-Ups|R1:160x8 R2:160x8|R1:170x7 R2:170x6|R1:170x7 R2:170x7|R1:? R2:?|R1:? R2:?|
+|Close Grip Overhand Pull-Ups|R1:160x8 R2:160x7|R1:170x6 R2:170x8|R1:170x8 R2:170x6|R1:? R2:?|R1:? R2:?|
+|Switch Grip Pull-Ups|R1:160x8 R2:160x7|R1:170x6 R2:170x6|R1:170x7 R2:170x6|R1:? R2:?|R1:? R2:?|
 
 *R1=Reps round 1, R2=Reps round 2, W1=Weight (lbs) round 1, W2=Weight (lbs) round 2, a=assisted, k=knees*
 
