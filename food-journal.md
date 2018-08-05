@@ -1270,12 +1270,12 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>slice of cheese pizza<br>0.5c<br>0.5d</td>
     <td>turkey pepperette<br>0.5p</td>
     <td>1 cup of brown beans w/ tomato sauce<br>0.5c<br>0.5co</td>
-    <td>?</td>
+    <td>protein shake<br>(milk, protein powder)<br>2p<br>1d</td>
     <td>?</td>
     <td>?</td>
     <td>4p<br>2d<br>1fr<br>2v<br>1f<br>2c<br>1ss<br>1co</td>
-    <td>0.5p<br>0.5d<br>0fr<br>0v<br>0f<br>1c<br>0ss<br>0.5co</td>
-    <td>-3.5p<br>-1.5d<br>-1fr<br>-2v<br>-1f<br>-c<br>-1ss<br>-0.5co</td>
+    <td>2.5p<br>1.5d<br>0fr<br>0v<br>0f<br>1c<br>0ss<br>0.5co</td>
+    <td>-1.5p<br>-0.5d<br>-1fr<br>-2v<br>-1f<br>-c<br>-1ss<br>-0.5co</td>
   </tr>
 </table>
 
