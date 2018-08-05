@@ -1260,10 +1260,10 @@ c=carbs, co=condiments, d=dairy, f=fat, fr=fruits, p=protein, ss=snack-single, s
     <td>salad<br>1v<br>1co<br><br>turkey pepperette<br>0.5p</td>
     <td>milk shake<br>1.5c</td>
     <td>egg mcmuffin<br>0.5c<br>0.5p<br>0.5f<br>1d<br>0.5v<br><br>turkey pepperette<br>0.5p</td>
-    <td>?</td>
+    <td>chips & garlic hummus<br>3c<br>2p</td>
     <td>4p<br>2d<br>1fr<br>2v<br>1f<br>2c<br>1ss<br>1co</td>
-    <td>1p<br>1d<br>0fr<br>1.5v<br>0.5f<br>2c<br>2ss<br>1co</td>
-    <td>-2.5p<br>-1d<br>-1fr<br>-0.5v<br>-0.5f<br>0c<br>+1ss<br>0co</td>
+    <td>3.5p<br>1d<br>0fr<br>1.5v<br>0.5f<br>5c<br>2ss<br>1co</td>
+    <td>-0.5p<br>-1d<br>-1fr<br>-0.5v<br>-0.5f<br>+3c<br>+1ss<br>0co</td>
   </tr>
   <tr valign="top" align="left">
     <td>S</td>
